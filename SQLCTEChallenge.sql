@@ -26,6 +26,7 @@ from categories c
 join products p 
 	on p.category_id = c.category_id 
 group by c.category_name
+order by average_price
 )
 select category_name, ProductCount, average_price
 from category_average
