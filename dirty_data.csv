@@ -1,0 +1,1209 @@
+id,host_id,host_name,neighbourhood_group,neighbourhood,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,rating
+*2539,2787,John,Brooklynn,Kensington,Privaate room,149,1,9,43392,0.21,6,365,0.571895817
+2595,2845,Jennifer,Manhattan,Midtown,Entire home/apt,225,1,45,43606,0.38,2,355,0.184031666
+3647,4632,Elisabeth,Manhattan,Harlem,Privaate room,150,3,0,,,1,365,0.027267469
+3831,4869,LisaRoxanne,Brooklynn,Clinton Hill,Entire home/apt,89,1,270,43651,4.64,1,194,0.461664199
+5022,7192,Laura,Manhattan,East Harlem,Entire home/apt,80,10,9,43423,0.1,1,0,0.823073643
+5099,7322,Chris,Manhattan,Murray Hill,Entire home/apt,200,3,74,43638,0.59,1,129,0.598771659
+5121,7356,Garon,Brooklynn,Bedford-Stuyvesant,Privaate room,60,45,49,43013,0.4,1,0,0.534677595
+5178,8967,Shunichi,Manhattan,Hell's Kitchen,Privaate room,79,2,430,43640,3.47,1,220,0.071079111
+5203,7490,MaryEllen,Manhattan,upper West Side,Privaate room,79,2,118,42937,0.99,1,0,0.514239192
+*5238,7549,Ben,Manhattan,Chinatown,Entire home/apt,150,1,160,43625,1.33,4,188,0.039279613
+5295,7702,Lena,Manhattan,upper West Side,Entire home/apt,135,5,53,43638,0.43,1,6,0.87285532
+5441,7989,Kate,Manhattan,Hell's Kitchen,Privaate room,85,2,188,43639,1.5,1,39,0.30606849
+5803,9744,Laurie,Brooklynn,South Slope,Privaate room,89,4,167,43640,1.34,3,314,0.34112732
+6021,11528,Claudio,Manhattan,upper West Side,Privaate room,85,2,113,43651,0.91,1,333,0.305588161
+6090,11975,Alina,Manhattan,West Village,Entire home/apt,120,90,27,43404,0.22,1,0,0.712543767
+6848,15991,Allen & Irina,Brooklynn,Williamsburg,Entire home/apt,140,2,148,43645,1.2,1,46,0.980137286
+7097,17571,Jane,Brooklynn,Fort Greene,Entire home/apt,215,2,198,43644,1.72,1,321,0.61056014
+7322,18946,Doti,Manhattan,Chelsea,Privaate room,140,1,260,43647,2.12,1,12,0.732253962
+*7726,20950,Adam And Charity,Brooklynn,Crown Heights,Entire home/apt,99,3,53,43638,4.44,1,21,0.564475455
+*7750,17985,Sing,Manhattan,East Harlem,Entire home/apt,190,7,0,,,2,249,0.246988954
+7801,21207,Chaya,Brooklynn,Williamsburg,Entire home/apt,299,3,9,40905,0.07,1,0,0.902408482
+*8024,22486,Lisel,Brooklynn,Park Slope,Privaate room,130,2,130,43647,1.09,6,347,0.013958651
+8025,22486,Lisel,Brooklynn,Park Slope,Privaate room,80,1,39,43466,0.37,6,364,0.760141788
+8110,22486,Lisel,Brooklynn,Park Slope,Privaate room,110,2,71,43648,0.61,6,304,0.952684772
+8490,25183,Nathalie,Brooklynn,Bedford-Stuyvesant,Entire home/apt,120,2,88,43635,0.73,2,233,0.770038709
+8505,25326,Gregory,Brooklynn,Windsor Terrace,Privaate room,60,1,19,43639,1.37,2,85,0.800992634
+8700,26394,Claude & Sophie,Manhattan,Inwood,Privaate room,80,4,0,,,1,0,0.062050409
+9357,30193,Tommi,Manhattan,Hell's Kitchen,Entire home/apt,150,10,58,42960,0.49,1,75,0.966666616
+9518,31374,Shon,Manhattan,Inwood,Privaate room,44,3,108,43631,1.11,3,311,0.078786297
+9657,21904,Dana,Manhattan,East Village,Entire home/apt,180,14,29,43574,0.24,1,67,0.547517032
+9668,32294,Ssameer Or Trip,Manhattan,Harlem,Privaate room,50,3,242,43617,2.04,3,355,0.245684107
+9704,32045,Teri,Manhattan,Harlem,Privaate room,52,2,88,43630,1.42,1,255,0.200196666
+9782,32169,Andrea,Brooklynn,Greenpoint,Privaate room,55,4,197,43631,1.65,3,284,0.494180797
+9783,32294,Ssameer Or Trip,Manhattan,Harlem,Privaate room,50,3,273,43647,2.37,3,359,0.737360067
+10452,35935,Angela,Brooklynn,Bedford-Stuyvesant,Privaate room,70,1,74,43597,0.66,2,269,0.621336225
+10962,9744,Laurie,Brooklynn,South Slope,Privaate room,89,4,168,43637,1.41,3,340,0.966444394
+11452,7355,Vt,Brooklynn,Bedford-Stuyvesant,Privaate room,35,60,0,,,1,365,0.477296471
+11708,44145,Tyrome,Brooklynn,Bushwick,Entire home/apt,85,2,231,43638,1.96,2,22,0.041036854
+11943,45445,Harriet,Brooklynn,Flatbush,Privaate room,150,1,0,,,1,365,0.774761142
+12048,7549,Ben,Manhattan,Lower East Side,Shared room,40,1,214,43651,1.81,4,188,0.112305143
+12192,46978,Edward,Manhattan,East Village,Privaate room,68,2,245,43637,2.08,2,96,0.036328291
+12299,47610,Abdul,Brooklynn,South Slope,Entire home/apt,120,3,15,43612,0.39,1,345,0.385957986
+12303,47618,Yolande,Brooklynn,Fort Greene,Privaate room,120,7,25,43373,0.23,1,311,0.692682196
+12318,16800,Cyn,Manhattan,upper West Side,Privaate room,135,4,81,43632,0.69,1,273,0.58345151
+12343,47727,Earl,Manhattan,Harlem,Entire home/apt,150,7,97,43629,0.84,1,309,0.329980441
+12627,49670,Rana,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,150,29,11,43621,0.49,1,95,0.587184318
+12937,50124,Orestes,Queens,Long Island City,Privaate room,130,3,248,43647,2.25,1,215,0.662094168
+12940,50148,Adreinne,Brooklynn,Bedford-Stuyvesant,Entire home/apt,110,7,61,43610,0.52,1,265,0.54027871
+13050,50846,Jennifer,Brooklynn,Bedford-Stuyvesant,Entire home/apt,115,3,11,42736,0.1,1,0,0.69769028
+13394,52335,Alexander,Brooklynn,Fort Greene,Privaate room,80,3,135,43633,1.16,2,192,0.664956361
+13808,54275,JT And Tiziana,Brooklynn,Bedford-Stuyvesant,Privaate room,80,1,112,43632,1.01,3,251,0.255555556
+14287,56094,Joya,Manhattan,upper West Side,Entire home/apt,151,2,73,43653,0.63,1,302,0.240651556
+14290,56104,James,Brooklynn,Williamsburg,Entire home/apt,228,3,82,43602,0.7,1,140,0.148853594
+14314,56246,Jeanne,Brooklynn,Greenpoint,Entire home/apt,144,2,328,43645,2.82,1,234,0.918982579
+14322,56284,Francesca,Manhattan,Kips Bay,Entire home/apt,200,7,19,43549,0.22,1,257,0.783159954
+14377,56512,Joanna,Brooklynn,Williamsburg,Entire home/apt,150,30,105,43638,0.9,1,30,0.30820643
+14991,59023,Bianca,Manhattan,Lower East Side,Privaate room,110,5,19,43603,0.17,1,301,0.741149431
+*15220,59734,Luiz,Manhattan,Hell's Kitchen,Privaate room,69,2,289,43625,2.49,2,294,0.280009824
+*15338,32169,Andrea,Brooklynn,Greenpoint,Privaate room,49,4,138,43620,1.19,3,320,0.492965187
+*15341,60049,Ted,Manhattan,SoHo,Entire home/apt,180,30,21,43645,0.3,1,154,0.805695783
+*15385,60252,Cristina,Brooklynn,Williamsburg,Privaate room,80,2,42,43646,0.38,1,263,0.545593318
+*15396,60278,Petra,Manhattan,Chelsea,Entire home/apt,375,180,5,43407,0.12,1,180,0.2435434
+*15711,61491,D,Manhattan,Upper East Side,Entire home/apt,250,2,66,43554,0.57,2,231,0.533459731
+*16326,63588,Dimitri,Brooklynn,Prospect Heights,Entire home/apt,200,30,143,43491,1.33,2,297,0.534616842
+*16338,63613,Patricia,Brooklynn,Clinton Hill,Privaate room,55,7,27,43008,0.23,2,292,0.753946241
+*16421,63924,Mark,Manhattan,Hell's Kitchen,Privaate room,52,30,191,43601,1.65,1,191,0.517694648
+*16458,64056,Sara,Brooklynn,Park Slope,Entire home/apt,225,3,4,43002,0.16,1,0,0.698336282
+*16580,64442,Reka,Manhattan,East Village,Privaate room,80,1,338,43647,4.72,2,72,0.162876924
+*16595,64522,Daniel,Brooklynn,Williamsburg,Entire home/apt,275,1,148,43639,1.4,1,362,0.663356419
+*16821,4396,Casey,Manhattan,East Village,Privaate room,99,1,106,43637,1.26,2,336,0.577051385
+*16974,65837,Robin,Manhattan,East Harlem,Entire home/apt,225,4,190,43639,1.64,1,215,0.448582476
+*17037,66035,Anna,Manhattan,East Village,Entire home/apt,230,9,49,43234,0.43,1,116,0.950304026
+*17092,66243,Enzo,Manhattan,Hell's Kitchen,Privaate room,51,7,23,43617,0.43,1,88,0.131301179
+*17693,68428,Tye And Etienne,Manhattan,Washington Heights,Privaate room,65,2,49,43634,1.6,2,336,0.659678111
+*17747,68599,George,Brooklynn,Clinton Hill,Privaate room,105,2,105,43642,0.92,1,304,0.384306123
+18127,69829,Josh,Manhattan,East Village,Entire home/apt,190,5,21,43467,0.2,1,224,0.97513688
+18152,69942,Victoria,Manhattan,Upper East Side,Privaate room,200,1,142,43652,1.5,1,322,0.652012339
+18198,70091,Justin,Queens,Woodside,Privaate room,70,30,25,43616,0.22,1,324,0.813017213
+18590,71512,Blaise,Brooklynn,Fort Greene,Privaate room,95,3,143,43632,1.28,1,132,0.240582732
+18728,71876,DAVID And RICK,Manhattan,Chelsea,Privaate room,150,3,167,43613,1.65,1,295,0.786497226
+18764,72014,LulÃº,Brooklynn,Williamsburg,Privaate room,145,3,61,43577,0.54,4,238,0.271838998
+*18764,73051,Sybilla,Manhattan,Harlem,Entire home/apt,110,31,54,43547,0.49,1,209,0.114935436
+*19159,73128,JoLynn,Manhattan,Lower East Side,Entire home/apt,285,5,70,43646,0.62,1,328,0.121200047
+*19169,73469,Gaia,Brooklynn,Flatbush,Entire home/apt,130,6,16,43631,0.15,1,38,0.271782402
+*19282,44263,Ana,Manhattan,Lower East Side,Privaate room,94,30,94,43563,0.84,1,188,0.093630097
+*19319,74303,Maggie,Brooklynn,Brooklynn Heights,Entire home/apt,800,1,25,42586,0.24,1,7,0.021243535
+*19601,74857,Starlee,Brooklynn,Williamsburg,Entire home/apt,105,3,61,43321,0.53,1,272,0.199455201
+*19812,62407,Edward,Manhattan,East Village,Privaate room,60,3,194,43646,1.73,1,26,0.429946285
+*20299,76627,Pas,Manhattan,East Village,Privaate room,50,1,2,42414,0.05,1,0,0.490424259
+*20300,72014,LulÃº,Brooklynn,Williamsburg,Privaate room,85,3,174,43638,1.54,4,288,0.426847348
+*20611,961342,Augustin,Brooklynn,Bushwick,Privaate room,65,4,24,43611,0.28,1,317,0.373960327
+*20724,78460,Sean & Lynette,Brooklynn,Prospect Heights,Entire home/apt,131,4,166,43643,3.4,1,207,0.149525844
+*20734,51038,Erica,Brooklynn,Clinton Hill,Privaate room,98,7,16,43616,0.2,6,185,0.736600196
+*20755,79070,Tracy,Brooklynn,Prospect Heights,Entire home/apt,250,7,21,43606,0.3,1,158,0.740056889
+*20853,79402,Christiana,Brooklynn,Williamsburg,Entire home/apt,100,5,168,43303,1.57,1,0,0.834778692
+*20913,44145,Tyrome,Brooklynn,Bushwick,Entire home/apt,105,3,118,43634,1.05,2,9,0.570882381
+*21293,42032,Dana,Manhattan,upper West Side,Entire home/apt,140,3,81,43653,0.71,1,198,0.492450533
+*21456,82685,Elliott,Manhattan,Harlem,Privaate room,89,1,1,43382,0.11,1,365,0.496249962
+**20913,83257,Olan,Manhattan,Chelsea,Privaate room,98,30,30,43586,0.27,2,364,0.980218922
+22911,87773,Shelly,Brooklynn,Bedford-Stuyvesant,Entire home/apt,125,7,139,43401,1.23,2,311,0.238211332
+22918,32294,Ssameer Or Trip,Manhattan,Harlem,Privaate room,60,3,11,43468,0.87,3,219,0.965410906
+23135,11481,Annette,Brooklynn,Carroll Gardens,Entire home/apt,175,2,233,43640,2.09,3,342,0.564775109
+23501,63318,Meka,Manhattan,Washington Heights,Privaate room,65,2,68,41214,0.6,1,312,0.291078129
+23686,93790,Ann,Manhattan,West Village,Entire home/apt,500,4,46,43603,0.55,2,243,0.441968545
+*24143,97219,Seth,Brooklynn,Williamsburg,Privaate room,101,3,335,43614,3.02,1,152,0.114344554
+24285,97797,Brenda,Brooklynn,Park Slope,Entire home/apt,220,30,88,43406,0.79,1,9,0.325955938
+25235,87773,Shelly,Brooklynn,Bedford-Stuyvesant,Entire home/apt,125,90,162,43644,1.46,2,137,0.275145065
+*23686,105538,Erik,Brooklynn,Williamsburg,Entire home/apt,80,30,29,43246,0.4,1,222,0.210240051
+**24143,107628,Dena,Manhattan,Harlem,Privaate room,100,2,170,43639,1.61,1,346,0.007337497
+*24285,109589,Jessica,Brooklynn,Gowanus,Entire home/apt,200,30,19,42811,0.2,1,208,0.056443614
+*25235,59734,Luiz,Manhattan,Hell's Kitchen,Privaate room,59,2,334,43632,3,2,279,0.261103889
+31902,51038,Erica,Brooklynn,Clinton Hill,Privaate room,125,2,19,43618,0.2,6,250,0.051835862
+31994,112793,Sally,Manhattan,East Village,Entire home/apt,140,7,12,43080,0.13,1,164,0.400077242
+32023,42273,Dani,Brooklynn,* South Slope ,Entire home/apt,120,30,467,43464,4.22,2,192,0.03469689
+32037,72062,Bruce,Manhattan,East Village,Entire home/apt,350,2,7,42956,0.06,4,298,0.568008023
+32100,115157,Nimo,Manhattan,Kips Bay,Entire home/apt,199,5,38,42340,0.38,1,260,0.660297705
+32289,115307,Alexandra,Brooklynn,Williamsburg,Entire home/apt,325,3,324,43639,3.01,1,107,0.933959982
+32331,115560,Stacy,Manhattan,upper West Side,Entire home/apt,235,6,27,43582,0.27,1,199,0.307076877
+32363,72062,Bruce,Manhattan,East Village,Entire home/apt,225,1,115,43623,1.05,4,299,0.927317186
+32965,118971,Evelyn,Brooklynn,South Slope,Privaate room,99,2,354,43605,3.2,3,20,0.096791118
+31902,119510,Emma,Manhattan,Harlem,Entire home/apt,170,2,195,43647,2.03,1,318,0.307312228
+31994,119588,Vero,Brooklynn,South Slope,Entire home/apt,400,2,16,43464,0.24,2,216,0.182089094
+32023,119900,Sylvie,Manhattan,upper West Side,Entire home/apt,170,7,13,43642,0.12,1,224,0.931325771
+32037,120223,Jen,Manhattan,East Village,Entire home/apt,100,4,25,40887,0.23,1,0,0.857029791
+32100,65091,Kay,Brooklynn,Prospect-Lefferts Gardens,Privaate room,75,2,9,43378,0.08,1,324,0.30822267
+32289,6197784,Jo,Brooklynn,Williamsburg,Privaate room,90,1,9,40804,0.08,1,245,0.901045371
+32331,124352,Lisa,Manhattan,Upper East Side,Entire home/apt,150,5,21,42962,0.19,1,189,0.426056177
+32363,124797,Fernando And Lenin,Manhattan,Washington Heights,Privaate room,85,15,36,42964,0.33,1,307,0.995633927
+32965,35935,Angela,Brooklynn,Bedford-Stuyvesant,Privaate room,70,3,63,43599,0.58,2,310,0.429794811
+29455,126607,Laurine,Manhattan,Harlem,Entire home/apt,120,3,155,43636,1.42,3,213,0.951872081
+29628,127608,Chris,Brooklynn,Clinton Hill,Privaate room,89,3,260,43649,2.35,1,278,0.185264918
+29683,125857,Uli,Manhattan,East Village,Entire home/apt,185,5,73,43641,0.66,1,209,0.834987863
+30031,129352,Sol,Brooklynn,Greenpoint,Privaate room,50,3,193,43605,1.86,1,0,0.211499063
+30927,120335,Cs,Manhattan,Lower East Side,Entire home/apt,105,3,32,43630,0.29,1,16,0.091634095
+31130,117287,Lara,Manhattan,Hell's Kitchen,Privaate room,130,2,50,43611,0.45,3,234,0.775584696
+31555,135619,Tom,Manhattan,West Village,Entire home/apt,115,29,26,43647,0.25,1,12,0.59617375
+31902,137292,Sunder,Brooklynn,Flatlands,Privaate room,77,2,2,43466,0.02,1,178,0.959461632
+31994,137814,Waldemar,Brooklynn,Clinton Hill,Privaate room,76,2,426,43640,3.89,3,275,0.3083908
+32023,137974,Khem,Brooklynn,Bedford-Stuyvesant,Entire home/apt,125,3,227,43639,2.09,2,163,0.133384638
+32037,116599,Sahr,Brooklynn,Clinton Hill,Privaate room,135,4,84,43647,0.77,3,365,0.644099951
+32100,138579,Ali+Scott,Brooklynn,Greenpoint,Entire home/apt,250,29,3,42946,0.03,1,34,0.459237204
+32289,139612,Elisabeth,Brooklynn,Williamsburg,Entire home/apt,199,3,10,43262,0.1,1,280,0.675062634
+32331,139874,Sarah,Brooklynn,Cobble Hill,Entire home/apt,140,2,4,42484,0.04,1,0,0.27750449
+32363,140025,Fredah,Queens,Flushing,Privaate room,140,2,1,40805,0.01,1,1,0.560281621
+32965,137974,Khem,Brooklynn,Bedford-Stuyvesant,Entire home/apt,115,3,124,43636,1.72,2,170,0.454842289
+32969,142833,Katherine,Brooklynn,Williamsburg,Entire home/apt,160,3,11,43648,0.11,1,188,0.776947731
+33009,143027,Ming,Brooklynn,Williamsburg,Entire home/apt,195,4,240,43633,2.19,1,214,0.977585007
+33014,143048,Paula,Manhattan,East Village,Entire home/apt,195,3,30,43633,0.28,1,248,0.903560867
+33223,72014,LulÃº,Brooklynn,Williamsburg,Privaate room,80,3,200,43638,1.86,4,262,0.050700267
+34760,149929,Obed,Brooklynn,Fort Greene,Privaate room,44,8,27,43645,1.05,5,280,0.880223423
+35526,120291,Karen,Manhattan,West Village,Privaate room,156,4,79,43638,0.74,1,307,0.823269766
+36121,62165,Michael,Brooklynn,Prospect Heights,Privaate room,85,15,9,41404,0.09,1,339,0.659588862
+36133,142684,White,Brooklynn,Williamsburg,Privaate room,125,3,155,43629,1.61,1,1,0.450788248
+36442,137432,Paz,Brooklynn,Prospect Heights,Entire home/apt,115,15,4,43339,0.05,1,269,0.514612833
+36647,157798,Irene,Manhattan,East Harlem,Privaate room,69,2,34,42884,0.32,1,10,0.786165673
+36703,158284,Karene,Manhattan,West Village,Entire home/apt,225,45,134,43555,1.24,1,312,0.199264821
+36934,159370,Viviana,Brooklynn,Williamsburg,Entire home/apt,125,6,27,43461,0.25,1,189,0.319573527
+38638,92788,Sara,Manhattan,Upper East Side,Entire home/apt,219,4,126,43642,1.16,2,290,0.630240674
+38663,165789,Sarah,Brooklynn,Boerum Hill,Entire home/apt,475,3,23,43465,0.27,1,230,0.327938531
+39267,168417,Marie,Manhattan,Upper East Side,Entire home/apt,99,1,234,43624,2.6,2,164,0.051270818
+39282,168525,Gus,Brooklynn,Williamsburg,Privaate room,69,4,202,43613,1.86,2,53,0.334103497
+39593,110506,Myung,Queens,Sunnyside,Privaate room,79,30,28,43567,0.26,1,126,0.351102877
+39704,170510,RenÃ©e,Brooklynn,Bedford-Stuyvesant,Entire home/apt,135,2,309,43638,2.86,2,3,0.97149823
+40039,171851,Henry,Brooklynn,DUMBO,Privaate room,250,3,14,40658,0.13,1,189,0.27447555
+40453,174025,Sylvia,Manhattan,Upper East Side,Entire home/apt,250,3,4,42636,0.08,1,365,0.78674607
+41348,180083,Syl,Brooklynn,Gowanus,Entire home/apt,250,2,80,43652,2.17,1,0,0.502711597
+41513,181167,Lorenzo,Manhattan,Harlem,Entire home/apt,80,3,2,42310,0.04,1,0,0.668587746
+42580,137814,Waldemar,Brooklynn,Clinton Hill,Privaate room,70,2,294,43640,3.47,3,336,0.532539506
+42729,11481,Annette,Brooklynn,Carroll Gardens,Entire home/apt,165,2,150,43634,1.4,3,342,0.489131561
+42882,185978,Newyorkroomwithaview,Staten Island,St. George,Privaate room,70,2,166,43629,1.66,1,312,0.061502868
+43957,177536,Tessa,Brooklynn,Bushwick,Privaate room,50,2,47,43635,0.94,1,37,0.778452098
+44096,190409,Waundell,Bronx,Highbridge,Privaate room,40,1,219,43650,2.04,3,353,0.168782707
+44161,193360,Young,Brooklynn,Williamsburg,Entire home/apt,150,2,193,42557,1.78,1,177,0.126855887
+44212,72062,Bruce,Manhattan,East Village,Privaate room,125,1,84,43639,0.78,4,310,0.753408128
+44221,193722,Coral,Manhattan,Financial District,Entire home/apt,196,3,114,43636,1.06,1,0,0.882559445
+44229,181376,Carol,Brooklynn,Fort Greene,Privaate room,110,2,213,43640,2,2,321,0.242177203
+44288,193637,Sara,Manhattan,West Village,Entire home/apt,170,3,86,43617,0.8,1,246,0.521392868
+44506,126607,Laurine,Manhattan,Harlem,Entire home/apt,165,3,80,43611,0.75,3,231,0.164920565
+45393,201297,Myrna,Manhattan,West Village,Entire home/apt,150,26,38,42480,0.36,1,225,0.27117423
+45542,202249,Campbell,Manhattan,Harlem,Entire home/apt,100,2,18,43451,1.79,1,0,0.662767211
+45556,67778,Doug,Brooklynn,Fort Greene,Privaate room,65,2,206,43646,1.92,2,0,0.14502932
+45910,204539,Mark,Queens,Ridgewood,Entire home/apt,350,8,10,43597,0.11,5,365,0.52342288
+45936,867225,Rahul,Manhattan,Morningside Heights,Privaate room,99,4,122,43599,1.18,2,233,0.717276489
+45940,204724,Miyoung,Brooklynn,Williamsburg,Entire home/apt,200,4,33,43563,0.58,1,1,0.676015824
+46544,8198,Monica,Brooklynn,Park Slope,Entire home/apt,150,5,52,43621,0.5,1,18,0.041981684
+46723,209460,Marylyn,Brooklynn,Bedford-Stuyvesant,Privaate room,90,3,126,43604,1.17,4,343,0.786094164
+46911,210746,Kathleen R.,Brooklynn,Prospect Heights,Privaate room,120,3,51,43640,0.48,3,250,0.1071574
+47199,212722,Teresa,Manhattan,Upper East Side,Privaate room,75,3,199,43640,1.85,1,326,0.809543293
+47362,214148,Robert,Brooklynn,Bedford-Stuyvesant,Entire home/apt,175,26,30,41155,0.29,1,364,0.146484296
+47370,214287,Alex,Manhattan,Chelsea,Entire home/apt,125,3,3,42202,0.03,1,0,0.30184402
+47926,218404,Claudia,Manhattan,Hell's Kitchen,Entire home/apt,275,1,41,43642,0.38,1,299,0.215844181
+48719,221873,Shane,Manhattan,Lower East Side,Entire home/apt,299,2,109,43631,1.04,1,207,0.244530806
+50447,9744,Laurie,Brooklynn,South Slope,Entire home/apt,135,5,151,43638,1.43,3,162,0.01113085
+51438,236421,Jessica,Manhattan,Upper East Side,Privaate room,130,14,0,,,2,0,0.26871657
+51485,236655,Erina,Manhattan,Lower East Side,Privaate room,83,1,285,43638,2.69,1,7,0.111721685
+51572,237329,Lee,Manhattan,Chelsea,Privaate room,123,1,375,43634,3.52,1,328,0.36042575
+51850,27848,Jullett,Queens,Jamaica,Privaate room,55,2,52,43605,0.49,2,365,0.55392078
+53137,240360,Marlaine,Manhattan,Hell's Kitchen,Entire home/apt,195,5,10,43647,1.01,1,0,0.629166646
+53196,247432,Charlotte,Brooklynn,Bedford-Stuyvesant,Privaate room,80,2,11,43052,0.48,1,0,0.893542628
+53469,204539,Mark,Queens,Middle Village,Entire home/apt,98,30,33,42133,0.31,5,240,0.942817588
+53470,204539,Mark,Queens,Ridgewood,Privaate room,140,7,6,42285,0.06,5,365,0.193871267
+53477,204539,Mark,Queens,Middle Village,Entire home/apt,265,7,38,43582,0.38,5,365,0.078517893
+54158,10889,Bob,Brooklynn,Williamsburg,Entire home/apt,249,2,358,43636,3.44,2,164,0.31194279
+54453,255583,Anka,Manhattan,Hell's Kitchen,Shared room,105,6,10,41646,0.09,1,363,0.615955587
+54466,253385,Douglas,Manhattan,Harlem,Privaate room,200,30,0,,,1,365,0.411408689
+54508,210746,Kathleen R.,Brooklynn,Prospect Heights,Privaate room,100,2,226,43622,2.12,3,250,0.013566267
+54544,256161,Wayne,Manhattan,Harlem,Entire home/apt,121,1,104,43638,1,5,247,0.488502049
+54626,190409,Waundell,Bronx,Highbridge,Privaate room,45,1,138,43646,1.45,3,323,0.021209749
+54860,258164,Jenny,Manhattan,East Harlem,Privaate room,100,5,204,43639,1.92,1,192,0.603916015
+55467,260709,Paul,Brooklynn,Williamsburg,Entire home/apt,140,2,253,43648,3.04,1,125,0.365637033
+55498,262138,Tami,Brooklynn,Bedford-Stuyvesant,Privaate room,71,2,23,43647,0.22,1,91,0.106476968
+55668,88209,Jason,Manhattan,NoHo,Privaate room,130,2,115,43439,1.17,1,75,0.818870932
+55737,263414,Pete,Manhattan,West Village,Entire home/apt,199,5,129,43604,1.22,1,286,0.025793471
+55959,168525,Gus,Brooklynn,Williamsburg,Privaate room,69,4,82,43626,1.13,2,60,0.769513592
+55982,264928,Sally,Brooklynn,Fort Greene,Privaate room,68,3,37,43465,0.35,1,0,0.000107478
+56467,267593,Leonardo,Manhattan,East Village,Entire home/apt,130,1,204,43647,2.04,1,192,0.646896012
+56525,268014,Alex,Brooklynn,Greenpoint,Entire home/apt,195,2,69,43629,0.65,1,58,0.404260185
+56859,256161,Wayne,Manhattan,Harlem,Privaate room,64,1,192,43619,1.84,5,245,0.061780978
+57166,272006,Vasili,Queens,Ditmars Steinway,Entire home/apt,140,2,17,43633,0.16,1,292,0.831938822
+57297,199392,S.M.,Brooklynn,Cobble Hill,Entire home/apt,159,2,222,43640,2.12,1,279,0.835128975
+57468,239208,Ori,Manhattan,East Village,Entire home/apt,189,3,205,43639,1.96,1,0,0.10254213
+57618,274557,Ana,Manhattan,Hell's Kitchen,Entire home/apt,250,3,94,43625,0.96,1,3,0.659874621
+57740,275459,I,Manhattan,East Village,Entire home/apt,239,3,7,43609,0.07,1,351,0.974516103
+57754,275578,R,Manhattan,Flatiron District,Entire home/apt,305,2,108,43646,1.09,1,201,0.411732599
+57874,276291,Simon,Manhattan,Harlem,Entire home/apt,155,3,222,43642,2.1,2,232,0.273772753
+58059,277379,Agnes,Manhattan,Harlem,Privaate room,60,1,458,43649,4.58,2,258,0.290071719
+58062,277394,Linda,Brooklynn,Windsor Terrace,Privaate room,135,2,21,43602,0.26,1,272,0.299815168
+58467,279797,Dave,Manhattan,Roosevelt Island,Privaate room,120,7,17,43593,0.3,1,341,0.471259534
+59014,282927,Drica,Manhattan,Lower East Side,Entire home/apt,150,3,41,43467,0.39,1,244,0.309715343
+59121,204539,Mark,Queens,Ridgewood,Entire home/apt,140,14,1,41169,0.01,5,365,0.105574777
+59642,274782,Betty,Brooklynn,Greenpoint,Entire home/apt,135,2,69,43604,0.67,1,12,0.429344695
+59709,186084,Ricardo & Ashlie,Manhattan,Chinatown,Entire home/apt,250,4,18,43647,0.18,2,265,0.461228957
+59855,288031,Leslie,Manhattan,Midtown,Entire home/apt,250,30,82,42374,0.78,1,0,0.701251024
+60164,289653,Harrison,Manhattan,SoHo,Entire home/apt,500,4,94,43639,0.99,1,329,0.954399924
+60457,99212,Jessica,Manhattan,Greenwich Village,Entire home/apt,225,5,10,43596,0.1,1,91,0.668436658
+60611,292204,Blanca,Manhattan,East Harlem,Entire home/apt,125,28,183,43372,1.83,2,365,0.266717044
+60666,256161,Wayne,Manhattan,Harlem,Privaate room,92,1,189,43627,1.82,5,253,0.608328482
+60673,249372,Cynthia,Manhattan,Harlem,Privaate room,175,2,1,43380,0.11,1,365,0.391851877
+60680,292630,Mich,Manhattan,East Village,Entire home/apt,99,2,127,43636,1.22,1,320,0.952657898
+60794,293394,Rachel,Manhattan,upper West Side,Entire home/apt,195,4,4,42972,0.04,1,0,0.215193922
+60948,126607,Laurine,Manhattan,East Harlem,Entire home/apt,140,3,135,43636,1.3,3,192,0.528439807
+61167,295760,Greta,Manhattan,Little Italy,Entire home/apt,135,2,21,42350,0.2,1,0,0.801727511
+61224,291112,Frank,Manhattan,Chelsea,Entire home/apt,500,2,35,42943,0.34,1,348,0.631908859
+61406,297176,Bethania,Manhattan,Harlem,Privaate room,80,14,10,43617,2.21,2,0,0.997866297
+61492,297769,Tunji,Manhattan,Chinatown,Privaate room,120,4,171,43639,1.8,2,353,0.227194281
+61509,23619,Anna/Fonzy,Manhattan,Midtown,Entire home/apt,110,200,92,43585,0.9,1,140,0.294262602
+62095,281764,Colette&Sean,Brooklynn,East Flatbush,Entire home/apt,65,3,238,43630,2.3,1,2,0.826865312
+62427,303882,Brie,Manhattan,East Village,Entire home/apt,130,50,56,43611,0.58,1,56,0.943042651
+62430,197755,Sheila,Brooklynn,Bushwick,Entire home/apt,99,3,111,43638,2.13,1,68,0.742071914
+62452,303939,Lissette,Staten Island,Tompkinsville,Privaate room,36,2,193,43641,1.85,6,360,0.967890597
+62461,303939,Lissette,Staten Island,Tompkinsville,Privaate room,37,2,147,43626,1.44,6,0,0.310006565
+62787,303939,Lissette,Staten Island,Tompkinsville,Privaate room,37,2,177,43648,1.71,6,320,0.099658441
+62891,306545,Olivia,Manhattan,East Village,Entire home/apt,175,3,185,43609,1.78,2,326,0.246615285
+62903,306605,Daniel,Manhattan,Chelsea,Entire home/apt,205,9,62,43637,0.7,2,76,0.834662791
+62925,306739,Maya,Brooklynn,Greenpoint,Entire home/apt,285,3,124,43632,1.22,3,279,0.009033825
+63299,308875,Scott,Brooklynn,Williamsburg,Privaate room,59,2,181,43639,1.77,2,15,0.606553164
+63320,303939,Lissette,Staten Island,Tompkinsville,Privaate room,36,2,333,43648,3.19,6,340,0.020616574
+63360,307962,Dennis & Naoko,Queens,Astoria,Entire home/apt,99,5,441,43640,4.5,1,226,0.150887821
+63546,308652,AntonÃ­n,Brooklynn,Kensington,Privaate room,39,1,45,43601,0.46,2,365,0.948066656
+63573,310458,Emily,Brooklynn,Park Slope,Privaate room,60,14,9,42611,0.09,2,0,0.332403861
+63588,295128,Carol Gloria,Bronx,Clason Point,Privaate room,90,2,0,,,7,349,0.882688754
+63610,310670,Vie,Bronx,Eastchester,Entire home/apt,105,2,38,43643,0.5,13,365,0.015560629
+63657,170510,RenÃ©e,Brooklynn,Bedford-Stuyvesant,Entire home/apt,135,2,248,43641,2.39,2,11,0.201790217
+63693,306545,Olivia,Manhattan,East Village,Entire home/apt,390,5,143,43635,1.38,2,316,0.141777488
+63719,311286,Helene,Brooklynn,Bedford-Stuyvesant,Privaate room,70,3,36,43331,0.41,4,281,0.60951497
+63913,312288,Paula,Manhattan,Inwood,Privaate room,75,7,0,,,2,323,0.721182594
+64000,312722,Kristian & Di,Brooklynn,Williamsburg,Privaate room,60,17,14,43472,0.14,4,362,0.95197728
+64015,146944,David,Manhattan,East Village,Entire home/apt,200,3,0,,,1,0,0.031371675
+64107,313317,Niya,Brooklynn,Crown Heights,Privaate room,100,3,279,43640,2.69,1,301,0.064266014
+64277,311286,Helene,Brooklynn,Bedford-Stuyvesant,Privaate room,70,4,18,43467,0.22,4,189,0.274420458
+64314,314256,Debbie,Brooklynn,Crown Heights,Privaate room,110,6,50,43611,3.55,1,0,0.989069781
+64365,314582,Anthony,Brooklynn,Crown Heights,Privaate room,60,2,227,43643,2.27,2,287,0.282293194
+64707,7310,Tilly,Manhattan,Little Italy,Entire home/apt,90,14,1,43467,0.16,1,14,0.700860086
+64837,46978,Edward,Manhattan,East Village,Privaate room,68,2,203,43639,1.96,2,86,0.47877902
+65019,317809,Claire,Manhattan,upper West Side,Entire home/apt,115,2,210,43652,2.1,1,261,0.301196297
+65268,319092,Juhli,Brooklynn,Bedford-Stuyvesant,Privaate room,75,5,64,43470,0.67,1,68,0.377666212
+65556,320422,Marlon,Brooklynn,Williamsburg,Privaate room,60,3,0,,,1,0,0.520424111
+65562,320450,Mary D,Manhattan,East Village,Entire home/apt,129,7,5,43468,0.15,1,231,0.302482116
+65615,320761,Valerie,Brooklynn,Williamsburg,Entire home/apt,130,10,49,43645,0.48,1,152,0.879662596
+65660,320538,Larissa,Brooklynn,Williamsburg,Entire home/apt,95,4,132,43653,1.27,1,46,0.785977063
+65813,321756,Eric,Manhattan,Harlem,Privaate room,75,3,20,43467,0.26,1,364,0.933393647
+65834,321934,Jessica,Brooklynn,Park Slope,Entire home/apt,175,2,11,41396,0.11,1,246,0.699795985
+66008,322884,Melissa,Brooklynn,Carroll Gardens,Entire home/apt,190,3,51,43647,0.57,1,288,0.840129091
+66026,322716,Alex,Brooklynn,Crown Heights,Privaate room,49,21,15,43646,0.15,5,331,0.677109339
+66251,324460,Samir,Manhattan,East Village,Entire home/apt,212,3,67,43641,1.31,1,51,0.907251808
+66275,314941,Tony,Manhattan,Lower East Side,Privaate room,95,1,109,43639,1.11,3,364,0.604797585
+66451,325389,Luis Fernando,Brooklynn,Williamsburg,Entire home/apt,140,2,9,43512,0.11,1,254,0.079061411
+66718,136227,Henning,Manhattan,Harlem,Entire home/apt,135,6,187,43639,1.87,1,189,0.86118373
+66741,327673,Stefano,Brooklynn,Park Slope,Entire home/apt,150,2,214,43639,2.08,2,263,0.597103666
+66974,329436,Jana,Brooklynn,Gowanus,Entire home/apt,190,3,69,43647,0.79,2,258,0.616756589
+67288,101597,Per,Manhattan,East Harlem,Entire home/apt,124,28,22,43631,0.26,1,103,0.444879551
+67299,330347,Adrienne,Brooklynn,Williamsburg,Entire home/apt,135,30,56,43591,0.56,1,42,0.182975611
+67397,332189,Elise,Manhattan,Morningside Heights,Privaate room,122,3,93,43638,0.93,1,246,0.751614799
+68099,323517,Deda,Manhattan,upper West Side,Privaate room,109,1,104,43641,1.05,2,364,0.126901925
+68305,338454,Share,Manhattan,Harlem,Privaate room,85,30,64,43287,0.68,1,318,0.65281438
+68403,240427,Naimah,Brooklynn,Bedford-Stuyvesant,Entire home/apt,145,3,127,43640,1.25,2,72,0.435412433
+68735,342054,Violetta,Manhattan,upper West Side,Entire home/apt,195,11,30,43629,0.32,1,249,0.926612267
+68765,282655,Jenna,Brooklynn,Carroll Gardens,Entire home/apt,250,2,106,43643,1.34,3,272,0.635382725
+68900,343250,Jason,Brooklynn,Greenpoint,Privaate room,125,3,6,42687,0.1,1,325,0.842931033
+68974,281229,Alicia,Manhattan,Little Italy,Entire home/apt,575,2,191,43636,1.88,1,298,0.235360324
+69894,352168,Silvia,Manhattan,upper West Side,Entire home/apt,150,30,48,43627,0.55,1,35,0.622222882
+69921,155689,Joab,Brooklynn,Bushwick,Privaate room,70,5,47,43645,0.49,1,203,0.301512558
+70095,353965,Mary And Geoff,Manhattan,Inwood,Privaate room,90,2,120,43646,1.27,1,132,0.439390012
+70128,354330,Eyal,Manhattan,East Village,Privaate room,65,3,52,43475,0.63,1,5,0.298770179
+70609,72062,Bruce,Manhattan,East Village,Entire home/apt,500,2,48,43632,0.48,4,297,0.289584916
+71010,361855,Kurt,Manhattan,Washington Heights,Entire home/apt,250,3,32,43609,0.43,2,276,0.812570073
+71248,363834,Jennifer,Manhattan,Chinatown,Entire home/apt,125,25,43,43633,0.42,1,102,0.446473455
+71366,364955,Ruperto,Manhattan,West Village,Entire home/apt,200,30,39,43641,0.44,1,251,0.613920596
+71384,365153,Ben,Brooklynn,Greenpoint,Entire home/apt,229,1,50,41772,0.5,1,188,0.409932158
+71812,369015,Thai,Bronx,Kingsbridge,Entire home/apt,90,30,4,43467,0.35,2,346,0.024086354
+72190,373085,Hudson,Manhattan,upper West Side,Entire home/apt,110,13,38,43511,0.39,1,0,0.879627367
+72265,340692,Vanessa,Brooklynn,Greenpoint,Privaate room,59,3,29,43632,0.36,1,15,0.336165091
+74073,211877,Daniel,Brooklynn,Williamsburg,Entire home/apt,195,4,59,43639,0.6,1,71,0.675717473
+74240,389924,Patty,Brooklynn,Williamsburg,Entire home/apt,169,1,68,43623,0.67,2,215,0.647115087
+74333,331328,Amir,Manhattan,East Harlem,Entire home/apt,113,14,26,42333,0.27,3,253,0.782954334
+74404,391325,G & S,Manhattan,Harlem,Entire home/apt,250,14,31,41143,0.31,1,78,0.795714229
+74680,265109,Nazleen,Queens,Astoria,Entire home/apt,115,2,198,43616,2.01,1,257,0.116563467
+74860,394752,Allison,Brooklynn,Greenpoint,Privaate room,55,2,1,40630,0.01,1,0,0.312242564
+75193,308875,Scott,Brooklynn,Williamsburg,Privaate room,69,2,220,43638,2.17,2,8,0.570240099
+75635,401696,Patricia,Manhattan,Lower East Side,Entire home/apt,150,3,286,43643,2.81,1,191,0.694625553
+76761,118971,Evelyn,Brooklynn,South Slope,Entire home/apt,169,2,398,43644,3.97,3,182,0.040377826
+77765,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,179,3,36,43647,0.36,28,79,0.869673962
+77936,134355,Moss Owen,Manhattan,Hell's Kitchen,Privaate room,150,3,36,43630,0.36,1,49,0.316045786
+78919,422561,Nancy,Brooklynn,Boerum Hill,Entire home/apt,135,4,6,42405,0.1,1,0,0.588789999
+79067,425506,Bliss,Brooklynn,Clinton Hill,Entire home/apt,350,6,14,43575,0.3,1,156,0.882845122
+79782,430188,Pam,Brooklynn,Williamsburg,Privaate room,120,14,76,43555,0.76,6,343,0.126260091
+80493,434987,Jennifer,Manhattan,East Village,Privaate room,71,2,182,43650,1.81,1,200,0.472970093
+80684,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,349,3,8,42456,0.09,28,60,0.392174838
+80700,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,349,3,7,43609,0.07,28,60,0.146060831
+80924,438133,Ellis,Brooklynn,Park Slope,Entire home/apt,165,30,34,43368,0.51,2,189,0.523999492
+81739,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,249,3,2,40675,0.02,28,60,0.611781895
+82549,448312,Christopher,Brooklynn,Brooklynn Heights,Privaate room,100,3,66,42629,0.68,2,0,0.201917315
+82550,448312,Christopher,Brooklynn,Brooklynn Heights,Entire home/apt,200,3,80,43646,0.85,2,106,0.013304724
+82638,449787,Sarah,Manhattan,East Village,Entire home/apt,169,4,240,43622,2.4,1,276,0.925234249
+82928,451545,Ruthven,Brooklynn,Bedford-Stuyvesant,Entire home/apt,185,3,46,43648,1.07,1,248,0.207688951
+83243,453519,Julian,Brooklynn,Bushwick,Entire home/apt,65,2,228,43626,2.27,1,194,0.309797553
+83446,454756,Leslie,Brooklynn,Fort Greene,Entire home/apt,130,35,5,43346,0.05,1,135,0.556404472
+83722,456638,Sophie,Brooklynn,Williamsburg,Entire home/apt,199,30,8,43338,0.11,1,30,0.516601236
+83847,410094,Yvette,Manhattan,East Village,Entire home/apt,225,2,33,43467,0.33,1,0,0.779353368
+84010,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,179,3,13,43643,0.14,28,81,0.340445934
+84059,459054,Famous,Brooklynn,Crown Heights,Entire home/apt,150,5,5,43303,0.05,1,0,0.982196633
+84659,462776,Kyle,Manhattan,East Village,Entire home/apt,139,1,388,43642,3.88,1,142,0.186059868
+84905,464506,Ange,Manhattan,Two Bridges,Privaate room,95,3,223,43639,2.22,2,60,0.821375186
+85094,322716,Alex,Brooklynn,Crown Heights,Entire home/apt,79,15,11,43479,0.11,5,179,0.620273047
+86215,327900,T,Manhattan,Lower East Side,Entire home/apt,150,2,151,43640,1.51,2,52,0.001888805
+89427,116599,Sahr,Brooklynn,Clinton Hill,Entire home/apt,650,5,0,,,3,365,0.364516182
+89621,209460,Marylyn,Brooklynn,Bedford-Stuyvesant,Entire home/apt,90,3,218,43644,2.26,4,324,0.289122492
+93313,25183,Nathalie,Brooklynn,Bedford-Stuyvesant,Entire home/apt,120,2,75,43639,0.76,2,237,0.403762919
+94035,35375,Savannah,Queens,Astoria,Privaate room,80,1,42,43652,1.21,2,365,0.958868043
+94209,503800,Sadatu,Brooklynn,Crown Heights,Entire home/apt,100,90,0,,,1,365,0.462553469
+94477,478395,Jason,Brooklynn,Bedford-Stuyvesant,Entire home/apt,175,2,370,43651,3.74,1,204,0.020811804
+94783,473113,Keishera,Brooklynn,Crown Heights,Entire home/apt,120,5,104,43637,1.04,1,272,0.530546463
+95747,509341,Tessa,Brooklynn,Williamsburg,Entire home/apt,140,7,13,42569,0.13,1,0,0.747800288
+95883,509918,Eduardo,Brooklynn,Bedford-Stuyvesant,Entire home/apt,200,5,4,43460,0.07,1,9,0.372192675
+96471,116599,Sahr,Brooklynn,Clinton Hill,Privaate room,165,4,11,43623,0.11,3,365,0.978621183
+98330,31374,Shon,Manhattan,Kips Bay,Entire home/apt,125,4,1,40911,0.01,3,181,0.882500177
+98663,520279,Peter Michael,Manhattan,Chelsea,Entire home/apt,130,30,19,43262,0.19,1,189,0.51341865
+99070,522065,Liz And Melissa,Manhattan,East Harlem,Shared room,65,7,131,43611,1.31,2,0,0.466411755
+99085,522164,Wanda,Brooklynn,Fort Greene,Entire home/apt,123,30,15,43586,0.15,1,189,0.305915234
+100002,523218,Giorgio,Manhattan,Washington Heights,Privaate room,67,2,136,43633,1.37,1,296,0.674511644
+100184,526653,,Queens,Queens Village,Privaate room,50,1,43,43654,0.45,1,88,0.79988568
+100186,526805,Mi,Brooklynn,Gowanus,Entire home/apt,130,7,98,43644,0.99,1,35,0.323494269
+101053,530032,Lee And Tara,Brooklynn,Williamsburg,Privaate room,100,3,31,43525,0.31,1,0,0.288362666
+102995,178043,Chas,Manhattan,upper West Side,Entire home/apt,212,21,45,43101,0.46,1,35,0.476177768
+103161,465278,Ade,Brooklynn,Williamsburg,Entire home/apt,190,3,124,43642,1.76,1,359,0.121140749
+103311,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,599,3,9,43239,0.09,28,60,0.977765655
+103806,251176,Jason,Manhattan,East Village,Entire home/apt,249,5,166,43612,1.68,2,365,0.792342219
+105469,547386,Michelle,Queens,Rockaway Beach,Privaate room,70,27,13,42268,0.13,1,335,0.438450413
+105510,322716,Alex,Brooklynn,Crown Heights,Entire home/apt,100,30,15,43470,0.16,5,282,0.576693952
+106363,551055,Alicia,Manhattan,Harlem,Privaate room,60,3,380,43642,3.83,2,247,0.173118083
+106647,552679,Olivia,Brooklynn,Bedford-Stuyvesant,Entire home/apt,135,2,86,43632,0.87,1,102,0.600616851
+107630,306739,Maya,Brooklynn,Greenpoint,Entire home/apt,175,3,248,43636,2.53,3,274,0.696859275
+107895,3088389,Kai,Manhattan,upper West Side,Entire home/apt,120,5,49,43635,0.56,1,201,0.756941864
+110739,568568,Driss,Manhattan,Midtown,Entire home/apt,169,18,54,43649,0.57,1,98,0.670997637
+112100,572527,Marine,Brooklynn,Crown Heights,Entire home/apt,165,7,3,41275,0.03,1,157,0.090554032
+112304,573316,Kelli,Manhattan,Harlem,Privaate room,90,1,1,42371,0.02,1,0,0.457802496
+112359,571952,Olivia,Manhattan,Upper East Side,Entire home/apt,225,2,56,43462,0.57,1,312,0.986854009
+112435,181376,Carol,Brooklynn,Fort Greene,Privaate room,95,2,163,43609,1.66,2,331,0.145888684
+113265,314582,Anthony,Brooklynn,Crown Heights,Privaate room,55,2,247,43637,2.51,2,275,0.743719009
+113945,275582,Natalia,Manhattan,Hell's Kitchen,Privaate room,85,10,116,43596,1.17,1,174,0.101935014
+114123,579495,Susi,Brooklynn,South Slope,Entire home/apt,199,14,27,43604,0.28,2,223,0.439740671
+114229,314941,Tony,Manhattan,Lower East Side,Entire home/apt,211,1,52,43624,0.6,3,361,0.096298431
+114969,582598,Andrey,Manhattan,Midtown,Entire home/apt,145,6,39,43367,0.4,1,0,0.811743606
+115535,567187,Jane,Manhattan,Harlem,Privaate room,65,14,35,43617,0.35,1,283,0.85720393
+115678,127772,Will,Manhattan,Harlem,Entire home/apt,99,1,320,43639,3.23,1,220,0.788955929
+115748,585166,Lilly,Queens,Astoria,Entire home/apt,110,4,30,43632,0.32,1,363,0.86552584
+116940,209460,Marylyn,Brooklynn,Crown Heights,Entire home/apt,80,3,225,43640,2.27,4,315,0.03981427
+117425,593115,LuLu,Brooklynn,Brooklynn Heights,Entire home/apt,150,30,95,43246,0.96,1,281,0.302952645
+118061,2248897,Roberta,Brooklynn,Bedford-Stuyvesant,Entire home/apt,110,4,70,43644,0.75,1,283,0.706328383
+118430,585458,Paul,Manhattan,Chelsea,Privaate room,290,2,35,43468,0.36,1,20,0.606112157
+118680,599354,Bobby,Manhattan,East Village,Privaate room,87,2,0,,,1,0,0.058936399
+120362,138069,Itamar,Brooklynn,Williamsburg,Entire home/apt,190,4,50,43648,0.51,1,331,0.515298529
+121687,262812,Vikram,Brooklynn,Williamsburg,Entire home/apt,200,2,29,43639,0.31,1,36,0.69942386
+121861,611716,Elizabeth,Brooklynn,Park Slope,Entire home/apt,165,2,23,42492,0.23,2,7,0.664507282
+123784,617990,Christopher,Manhattan,Harlem,Entire home/apt,110,2,142,43632,1.44,2,301,0.185887373
+125053,622460,Justin,Manhattan,East Village,Entire home/apt,395,2,70,43647,0.73,1,170,0.690540859
+125163,622855,Rodney,Brooklynn,Bedford-Stuyvesant,Privaate room,99,2,38,43619,0.54,2,307,0.964708733
+125594,308652,AntonÃ­n,Brooklynn,Kensington,Privaate room,39,1,82,43604,0.94,2,365,0.953702406
+126443,627217,Seith,Manhattan,East Village,Entire home/apt,189,2,403,43653,4.1,3,201,0.700318345
+126816,620288,Eric,Manhattan,upper West Side,Privaate room,85,1,3,41949,0.03,1,0,0.779771182
+127387,23276,Katharine,Brooklynn,Gowanus,Entire home/apt,260,30,3,41855,0.03,1,316,0.011170974
+128975,256161,Wayne,Manhattan,Harlem,Entire home/apt,122,1,116,43629,1.18,5,271,0.401498201
+131154,275563,Lauren,Brooklynn,Greenpoint,Entire home/apt,165,2,175,43653,1.79,1,139,0.673273396
+132516,85330,Jean,Queens,Forest Hills,Entire home/apt,97,3,28,43647,1.21,3,209,0.019601642
+132570,651390,Catherine,Manhattan,West Village,Entire home/apt,170,4,24,43095,0.25,1,0,0.026909652
+132695,507186,Holly,Brooklynn,Williamsburg,Entire home/apt,125,2,15,42527,0.15,1,0,0.630907293
+133025,653405,Tracy,Manhattan,Murray Hill,Privaate room,130,4,105,43622,1.07,1,193,0.195825099
+134934,652842,Giovanni,Brooklynn,Williamsburg,Entire home/apt,225,10,22,43615,0.38,1,52,0.715419571
+135393,663764,Karen,Brooklynn,East Flatbush,Privaate room,50,2,263,43640,2.69,2,136,0.636046407
+135465,663879,Christopher,Brooklynn,Fort Greene,Entire home/apt,170,3,86,43636,0.91,2,286,0.925474716
+135706,665013,Jeff,Manhattan,Chelsea,Entire home/apt,132,4,10,42736,0.1,1,0,0.225456045
+136493,663384,Irena,Brooklynn,Park Slope,Entire home/apt,250,7,18,43612,0.21,1,18,0.324704656
+138216,674970,Michael,Brooklynn,Greenpoint,Entire home/apt,141,5,8,43289,0.21,1,9,0.030324611
+139624,680818,Jessica,Brooklynn,Crown Heights,Entire home/apt,64,20,70,43496,0.73,1,3,0.81547438
+140133,622866,Daniel,Brooklynn,Williamsburg,Entire home/apt,249,3,150,43651,1.55,1,277,0.228499623
+140425,683975,Ivy,Brooklynn,Crown Heights,Privaate room,79,2,115,42880,1.18,1,0,0.427178638
+140973,686147,Dave,Manhattan,East Village,Entire home/apt,185,2,69,43611,0.71,1,233,0.786021109
+141154,686768,Mark,Brooklynn,Boerum Hill,Entire home/apt,120,3,232,43638,2.41,1,221,0.67349303
+141335,687361,Orna,Brooklynn,Park Slope,Entire home/apt,495,1,35,43113,0.41,1,355,0.943473396
+141890,689661,Allison,Manhattan,Nolita,Entire home/apt,375,3,18,41548,0.21,1,0,0.810838931
+141984,630453,Vanessa,Manhattan,Nolita,Entire home/apt,175,3,68,43626,0.69,1,277,0.10009348
+142069,277747,Josh,Manhattan,East Village,Entire home/apt,150,4,22,41953,0.23,1,0,0.732302557
+144087,616825,Rinaldo,Manhattan,Harlem,Entire home/apt,259,8,17,43603,0.17,1,343,0.627488063
+144148,299755,Jonathan,Manhattan,East Village,Privaate room,96,1,34,42374,0.58,1,0,0.529604988
+145064,404424,Oliver,Brooklynn,Williamsburg,Entire home/apt,145,7,8,41796,0.08,1,0,0.60483667
+145188,703156,Kristin,Manhattan,Chelsea,Entire home/apt,200,4,0,,,1,0,0.391288264
+145994,706418,Carolyn,Manhattan,upper West Side,Entire home/apt,95,5,2,43287,0.08,1,0,0.291058294
+146754,709434,Meighan,Brooklynn,Windsor Terrace,Entire home/apt,250,4,52,43582,0.72,1,188,0.717786799
+147586,709334,Julie,Manhattan,Harlem,Entire home/apt,295,2,74,43632,0.76,2,264,0.526794773
+148201,715807,John,Manhattan,Greenwich Village,Entire home/apt,175,3,18,41425,0.19,1,0,0.706043897
+148259,716064,Mihalis,Brooklynn,Williamsburg,Entire home/apt,451,2,72,43596,0.86,1,331,0.063646864
+148825,718349,B.,Manhattan,upper West Side,Entire home/apt,165,2,191,43645,2.18,1,236,0.959097218
+149287,720320,Nancy,Manhattan,Upper East Side,Entire home/apt,250,4,0,,,1,0,0.110442384
+149777,716306,"Dee, Dre & Mama Shelley",Bronx,Woodlawn,Entire home/apt,77,1,197,43639,2.49,1,309,0.645710207
+150804,726333,Peter,Manhattan,Lower East Side,Entire home/apt,250,4,19,43652,0.2,1,0,0.034239469
+151199,722320,Gladys & Bob,Queens,Astoria,Entire home/apt,129,1,414,43649,4.34,1,245,0.969920379
+151478,216191,M,Brooklynn,Williamsburg,Privaate room,98,2,8,43445,0.09,4,0,0.796545937
+152071,731855,Wendy,Brooklynn,Park Slope,Entire home/apt,150,2,0,,,1,8,0.539879198
+152078,731904,Ewelina,Manhattan,East Village,Privaate room,95,7,25,43508,0.3,1,359,0.992390101
+152259,256161,Wayne,Manhattan,Harlem,Privaate room,55,3,119,43613,1.22,5,333,0.608941231
+152263,732535,William,Manhattan,Harlem,Entire home/apt,300,2,203,43652,2.14,3,258,0.832927693
+152520,733894,Lucy,Queens,Sunnyside,Privaate room,42,40,53,43420,0.55,3,236,0.46777274
+153405,737585,Pat,Brooklynn,Greenpoint,Entire home/apt,125,2,104,43632,1.09,1,22,0.94230099
+153780,739499,Donna,Manhattan,East Village,Privaate room,175,3,175,43644,1.8,1,236,0.167639722
+154934,745069,Kimberly,Manhattan,Harlem,Privaate room,75,3,38,43228,0.42,3,365,0.324633147
+155296,656841,Meredith,Brooklynn,Williamsburg,Entire home/apt,255,45,39,43587,0.5,1,89,0.461162266
+157673,757166,Tokunbo,Brooklynn,Bedford-Stuyvesant,Entire home/apt,72,31,88,43632,0.91,1,164,0.578937304
+158061,758441,Fred,Brooklynn,Bedford-Stuyvesant,Privaate room,165,1,27,43016,0.28,4,311,0.226515748
+158176,573065,Laura,Brooklynn,Williamsburg,Entire home/apt,165,5,117,43645,1.28,1,23,0.456862429
+158290,759583,Pepe,Brooklynn,Clinton Hill,Privaate room,75,3,43,43605,0.44,2,365,0.92275975
+158913,762563,Lennny & Megan,Brooklynn,Greenpoint,Entire home/apt,130,5,4,42076,0.05,1,0,0.337579159
+158955,465589,Amia,Brooklynn,Williamsburg,Entire home/apt,139,2,385,43645,4,1,222,0.986401442
+159749,54275,JT And Tiziana,Brooklynn,Bedford-Stuyvesant,Privaate room,88,1,64,43647,0.68,3,238,0.663633542
+159815,54275,JT And Tiziana,Brooklynn,Bedford-Stuyvesant,Privaate room,80,1,39,43640,0.41,3,218,0.395834733
+159913,759883,Kaye,Manhattan,Chelsea,Privaate room,150,2,37,43649,1.79,1,0,0.918414488
+160609,769247,Ligia,Manhattan,upper West Side,Entire home/apt,200,3,10,43466,0.12,1,0,0.563625903
+160994,770831,James,Manhattan,East Village,Entire home/apt,200,2,103,43640,1.08,1,235,0.332198928
+161366,733894,Lucy,Queens,Sunnyside,Privaate room,42,40,41,43617,0.43,3,246,0.070495563
+161394,772300,Alain,Brooklynn,Williamsburg,Privaate room,90,6,3,41882,0.03,1,0,0.929130419
+161996,1856604,"Robert ""Bob""",Manhattan,Harlem,Entire home/apt,295,3,227,43642,2.33,1,247,0.860939987
+162493,776490,Andres,Brooklynn,Williamsburg,Entire home/apt,450,5,37,43461,0.79,1,15,0.163083954
+162508,776645,Placid,Brooklynn,Crown Heights,Entire home/apt,130,2,29,43644,0.35,1,119,0.273526399
+163627,242506,Jsun,Brooklynn,Williamsburg,Privaate room,89,3,205,43100,2.31,3,0,0.588341454
+163809,781647,Jorin,Manhattan,Harlem,Entire home/apt,198,5,42,43619,0.44,2,234,0.324599069
+163814,627217,Seith,Manhattan,East Village,Entire home/apt,99,2,280,43651,2.92,3,257,0.108812612
+163836,32169,Andrea,Brooklynn,Greenpoint,Privaate room,46,4,86,43624,0.89,3,350,0.72075916
+164989,69439,Jade,Manhattan,SoHo,Privaate room,140,2,54,43632,0.56,1,221,0.638512836
+165080,787273,Smadar,Brooklynn,Carroll Gardens,Entire home/apt,500,7,7,43341,0.07,1,0,0.684434118
+165461,867225,Rahul,Manhattan,Morningside Heights,Privaate room,75,5,57,43466,0.59,2,201,0.927976678
+165824,733894,Lucy,Queens,Sunnyside,Privaate room,33,44,31,43586,0.32,3,161,0.687024576
+166006,791287,Giancarlo,Manhattan,upper West Side,Entire home/apt,250,31,188,43335,1.94,1,259,0.932606154
+166172,792159,Wanda,Brooklynn,Bushwick,Privaate room,60,3,480,43653,6.7,1,0,0.1876786
+166541,793620,Yvette,Manhattan,Washington Heights,Privaate room,75,2,34,43631,0.35,1,222,0.41942345
+166983,795640,Jilly,Brooklynn,Carroll Gardens,Entire home/apt,350,5,6,42224,0.06,1,0,0.246892797
+167013,306605,Daniel,Manhattan,Chelsea,Entire home/apt,205,9,3,43233,0.04,2,76,0.935769472
+167017,795889,Adam,Brooklynn,Park Slope,Entire home/apt,219,5,2,41882,0.03,1,0,0.387363559
+167222,22486,Lisel,Brooklynn,Park Slope,Privaate room,60,1,20,43336,0.21,6,258,0.10239541
+167482,789257,Barbara,Manhattan,upper West Side,Entire home/apt,185,2,129,43623,1.33,1,14,0.943026929
+168084,800982,Chris,Manhattan,East Village,Entire home/apt,190,3,147,43646,1.6,1,27,0.287994563
+168123,720558,Sara,Brooklynn,South Slope,Entire home/apt,105,28,101,43647,1.06,1,167,0.746867124
+168546,803086,Benton,Manhattan,East Harlem,Entire home/apt,250,2,11,42371,0.12,2,68,0.493727324
+168810,747698,Linda & Chris,Manhattan,upper West Side,Entire home/apt,175,65,11,41562,0.12,1,358,0.671002046
+169002,805344,Alec,Manhattan,Harlem,Privaate room,65,2,41,43632,0.43,2,59,0.675014448
+169152,806112,Julia,Brooklynn,Bedford-Stuyvesant,Entire home/apt,75,2,87,42843,1.09,1,0,0.720274243
+169306,806214,Vanessa,Bronx,University Heights,Privaate room,37,4,117,43606,1.21,1,232,0.544586038
+169464,806774,Ali & SweetPea,Brooklynn,Williamsburg,Entire home/apt,85,2,86,43601,0.89,2,15,0.923295165
+169483,807642,Jeffrey,Brooklynn,Gravesend,Entire home/apt,106,7,0,,,2,0,0.028280529
+170420,812814,Lena,Manhattan,East Harlem,Entire home/apt,79,2,15,42415,0.16,1,0,0.734914222
+170761,67778,Doug,Brooklynn,Fort Greene,Privaate room,85,2,35,43648,0.55,2,161,0.280676241
+171776,803086,Benton,Manhattan,Harlem,Privaate room,170,2,17,42278,0.18,2,88,0.510663515
+172700,302772,Cheryl,Manhattan,Lower East Side,Privaate room,115,3,3,42415,0.04,2,337,0.080056829
+172870,781647,Jorin,Manhattan,Harlem,Privaate room,89,5,43,43103,0.47,2,247,0.532663603
+173072,826192,Lewis,Manhattan,Harlem,Shared room,49,3,168,43652,4.6,1,248,0.859657922
+173151,826459,Jane,Brooklynn,Greenpoint,Privaate room,91,3,241,43640,2.49,1,287,0.699293839
+173742,829652,Donna,Manhattan,Gramercy,Entire home/apt,400,2,105,43639,1.13,1,304,0.217742925
+174527,833926,Kris,Brooklynn,Bushwick,Entire home/apt,150,2,11,43401,0.46,1,0,0.226166647
+174966,836168,Henry,Manhattan,upper West Side,Entire home/apt,2000,30,30,43225,0.33,11,0,0.812988827
+176135,842125,Jennifer,Brooklynn,Crown Heights,Entire home/apt,97,3,31,43396,0.32,1,193,0.751543793
+176653,844862,Cj,Manhattan,East Village,Privaate room,100,4,49,43592,0.51,2,43,0.271150921
+176962,846309,Dani,Brooklynn,Williamsburg,Entire home/apt,179,4,23,43568,0.24,1,25,0.785776593
+177421,848748,Sarah,Brooklynn,Greenpoint,Entire home/apt,500,2,20,43640,0.21,2,127,0.905102523
+177495,848960,Amit,Manhattan,Chelsea,Entire home/apt,429,10,18,43640,0.9,1,0,0.302142336
+177606,849492,Kathrine,Manhattan,Kips Bay,Entire home/apt,189,6,90,43639,0.95,1,303,0.237864124
+179670,21475,Milan,Manhattan,Lower East Side,Privaate room,120,2,99,43643,1.04,1,345,0.282894205
+179741,314941,Tony,Manhattan,Nolita,Entire home/apt,300,1,6,43644,0.06,3,115,0.445265784
+180507,864735,Jason,Queens,Astoria,Entire home/apt,107,30,21,43435,0.22,8,200,0.205783705
+180792,864735,Jason,Queens,Astoria,Entire home/apt,95,30,24,43559,0.26,8,271,0.631689285
+181972,872121,Rosario,Manhattan,Harlem,Entire home/apt,199,2,111,43618,1.17,1,12,0.746045763
+182069,39260,Mat,Manhattan,East Harlem,Entire home/apt,120,2,86,43636,0.91,1,268,0.341169931
+182095,872805,Mike,Manhattan,West Village,Entire home/apt,199,15,66,43584,0.69,2,89,0.062673444
+182177,873273,Christian & Carla,Bronx,Allerton,Entire home/apt,125,2,271,43636,2.84,2,347,0.546951607
+182649,876054,Obed,Brooklynn,Williamsburg,Privaate room,70,2,227,43634,2.4,1,37,0.097221957
+185266,889106,Lisa,Brooklynn,Williamsburg,Privaate room,75,4,80,43652,1.55,1,0,0.462397318
+187488,871727,Village,Manhattan,West Village,Privaate room,100,30,5,43437,0.07,1,359,0.083567807
+187566,279078,Andrew & Markus,Brooklynn,Bedford-Stuyvesant,Entire home/apt,99,2,187,43626,1.97,2,287,0.223209809
+187986,904833,Daniel,Manhattan,Chelsea,Entire home/apt,250,1,2,42244,0.02,1,0,0.724726668
+188146,906200,Mariana,Brooklynn,Williamsburg,Entire home/apt,350,6,1,42370,0.02,1,233,0.128743503
+188661,909146,Mj,Brooklynn,Prospect Heights,Entire home/apt,170,3,67,43393,0.7,1,129,0.277865759
+188674,909234,Leslie,Manhattan,East Village,Entire home/apt,165,1,63,43112,0.68,1,0,0.726385445
+189135,179020,Michael,Manhattan,Hell's Kitchen,Privaate room,99,1,89,43647,1,1,353,0.333942668
+189181,912541,David,Manhattan,Chelsea,Privaate room,255,4,1,41749,0.02,1,365,0.203072543
+189732,489400,O'Dell,Brooklynn,East New York,Entire home/apt,169,3,177,43645,1.86,1,297,0.833488759
+189787,915640,Sundiata,Brooklynn,Crown Heights,Entire home/apt,99,4,90,43646,0.94,1,56,0.752080531
+190267,918866,Marina,Manhattan,Upper East Side,Entire home/apt,169,7,39,43653,0.41,1,44,0.434953037
+190542,920542,Farrah,Brooklynn,Bedford-Stuyvesant,Entire home/apt,160,3,42,43603,0.44,1,355,0.643560851
+190968,922922,Karen,Brooklynn,Prospect Heights,Entire home/apt,215,3,33,43593,0.35,1,156,0.271274468
+190974,874471,Alan,Brooklynn,Park Slope,Entire home/apt,130,3,179,43614,2.02,1,273,0.588569897
+191075,923915,Matthew,Manhattan,East Village,Privaate room,110,3,81,43552,0.85,2,274,0.592800101
+193105,936114,Marcela,Manhattan,Hell's Kitchen,Privaate room,150,28,43,43645,0.45,2,258,0.425796913
+193333,302936,Melody,Brooklynn,Williamsburg,Privaate room,65,30,52,43404,0.54,1,276,0.368829181
+193393,938056,Mike,Queens,Sunnyside,Privaate room,75,2,160,43641,1.68,1,65,0.248007764
+193853,48599,Anastasia,Manhattan,Chelsea,Entire home/apt,149,6,23,43241,0.27,2,0,0.883358982
+194154,936830,Elina,Manhattan,upper West Side,Privaate room,89,6,35,42904,0.37,1,180,0.372346546
+195123,940724,Susan,Manhattan,Washington Heights,Privaate room,50,1,225,43628,2.35,1,343,0.505760165
+195233,949221,Dennis,Brooklynn,Prospect-Lefferts Gardens,Privaate room,43,1,401,43650,6.62,2,43,0.209834379
+195240,949221,Dennis,Brooklynn,Prospect-Lefferts Gardens,Privaate room,42,1,72,43633,0.84,2,96,0.606306741
+195578,304493,Erika,Brooklynn,Williamsburg,Privaate room,85,1,46,43464,0.97,1,59,0.120546988
+195971,953279,Tim,Brooklynn,Bedford-Stuyvesant,Entire home/apt,139,3,83,43639,1.19,1,255,0.451944503
+195989,611716,Elizabeth,Brooklynn,Park Slope,Privaate room,105,1,211,43631,2.21,2,252,0.278196013
+196010,953565,Vanessa,Brooklynn,Park Slope,Entire home/apt,265,5,15,42169,0.16,1,0,0.691255711
+197155,960836,Vlad,Manhattan,Hell's Kitchen,Entire home/apt,149,1,122,43639,1.29,1,20,0.846293224
+197753,964482,Colin,Manhattan,Harlem,Privaate room,68,2,295,43628,3.9,2,188,0.456746242
+197942,289135,Toni,Brooklynn,Bedford-Stuyvesant,Entire home/apt,99,3,207,43653,2.18,1,304,0.486444651
+199195,971075,Jabari,Manhattan,Harlem,Privaate room,75,3,50,43554,0.65,2,38,0.747122253
+199312,973438,Susanne,Brooklynn,Williamsburg,Privaate room,100,2,273,43640,2.85,1,254,0.013110837
+200645,933378,Edo,Manhattan,Upper East Side,Shared room,90,1,0,,,1,0,0.714453961
+200955,568325,Simone,Manhattan,East Village,Entire home/apt,160,30,25,43220,0.26,1,46,0.472358923
+201992,988350,Andrea,Brooklynn,Park Slope,Entire home/apt,190,4,105,43596,1.62,1,328,0.154023128
+202273,918087,Kestrel,Brooklynn,Bedford-Stuyvesant,Privaate room,67,4,72,42730,0.76,3,0,0.508425912
+203901,1000477,Elizabeth,Manhattan,Upper East Side,Entire home/apt,190,1,8,42631,0.08,1,0,0.627481185
+204065,51038,Erica,Brooklynn,Clinton Hill,Entire home/apt,248,2,58,43620,0.61,6,199,0.016835569
+204833,903686,Melanie,Brooklynn,Williamsburg,Privaate room,100,6,8,42264,0.09,1,249,0.997700871
+204959,464506,Ange,Manhattan,Chinatown,Privaate room,95,3,172,43648,1.84,2,64,0.800405337
+205043,1007558,Welcome To My Place,Manhattan,Theater District,Privaate room,150,1,330,43636,7.14,1,111,0.512708995
+205485,1010242,Zora & Chris,Brooklynn,Bedford-Stuyvesant,Entire home/apt,145,3,123,43627,1.29,1,287,0.408192871
+205735,1011426,Danielle,Brooklynn,Bushwick,Privaate room,41,2,55,43585,0.59,1,286,0.574175989
+205867,1012691,Tiffaney,Brooklynn,Williamsburg,Entire home/apt,120,4,87,43649,0.99,1,263,0.812564142
+206071,12221,Lori,Bronx,Concourse Village,Privaate room,50,3,258,43641,2.7,2,276,0.710487954
+206316,1014639,Brett,Brooklynn,Fort Greene,Entire home/apt,157,2,4,43339,0.18,1,0,0.237242613
+206772,1017473,Evan,Brooklynn,Williamsburg,Entire home/apt,195,14,31,43611,0.33,1,263,0.743487249
+206957,1018472,Angus,Brooklynn,Sheepshead Bay,Entire home/apt,70,4,128,42689,1.34,2,90,0.501236342
+208148,1024355,Martina,Brooklynn,Williamsburg,Entire home/apt,185,3,14,42247,0.15,1,0,0.92868558
+208889,1029021,Jameelah,Brooklynn,Bedford-Stuyvesant,Entire home/apt,145,3,30,43640,0.32,3,11,0.548539767
+209310,1031148,Iulia,Queens,Sunnyside,Privaate room,50,28,258,43613,2.9,1,287,0.477020004
+211078,306739,Maya,Brooklynn,Greenpoint,Entire home/apt,185,3,228,43215,2.39,3,1,0.029410136
+211974,272730,Goldi,Manhattan,East Village,Entire home/apt,250,1,60,43647,0.65,1,0,0.796382346
+212109,666271,Susan,Manhattan,West Village,Privaate room,80,90,9,43646,0.2,1,338,0.445281646
+212178,1094178,Jeremy,Manhattan,Theater District,Entire home/apt,230,2,179,43635,1.88,1,44,0.717013441
+212544,1096084,Daniel,Brooklynn,Gowanus,Entire home/apt,100,7,9,42544,0.1,1,0,0.012226566
+213272,293130,Meli,Brooklynn,Bushwick,Privaate room,40,1,1,43576,0.37,1,5,0.426521754
+213330,800223,Nader,Manhattan,Lower East Side,Privaate room,200,30,25,43341,0.49,1,0,0.780260799
+214917,1109658,Carmel,Staten Island,Emerson Hill,Privaate room,80,2,2,43139,0.05,1,158,0.87497929
+215560,1112560,Mary,Brooklynn,Bedford-Stuyvesant,Privaate room,79,3,152,43641,1.6,3,192,0.232352164
+215784,864735,Jason,Queens,Long Island City,Entire home/apt,95,30,24,43555,0.25,8,358,0.482362333
+215907,1114587,Keenan & Emily,Manhattan,upper West Side,Entire home/apt,300,2,45,43577,0.47,3,31,0.109011113
+217580,1121193,Samuel,Brooklynn,Fort Hamilton,Entire home/apt,100,30,7,43418,0.08,1,241,0.24169748
+218358,1129218,Orlando,Manhattan,Harlem,Privaate room,80,7,19,43619,0.35,1,285,0.014231283
+219066,447754,Yana,Brooklynn,Bensonhurst,Entire home/apt,110,1,24,43484,0.26,1,183,0.685052964
+219482,759583,Pepe,Brooklynn,Clinton Hill,Entire home/apt,172,4,8,43022,0.09,2,189,0.605912243
+219793,1138692,Keera (Jena),Manhattan,Lower East Side,Entire home/apt,199,1,29,42158,0.31,2,162,0.884834406
+219818,1138692,Keera (Jena),Manhattan,Lower East Side,Entire home/apt,199,1,14,42205,0.15,2,158,0.976870038
+219922,1139574,Carmel,Manhattan,Harlem,Privaate room,100,1,33,43610,0.38,1,84,0.722012662
+220351,921500,Boubacar And Pattee,Manhattan,Harlem,Privaate room,55,4,99,43524,1.04,1,260,0.511779041
+220563,918087,Kestrel,Brooklynn,Bedford-Stuyvesant,Privaate room,75,3,59,42740,0.62,3,0,0.36120309
+220946,1144415,Lisa,Manhattan,East Village,Entire home/apt,146,3,142,43632,1.5,1,166,0.119668327
+221043,846050,Eziah,Manhattan,NoHo,Privaate room,250,2,0,,,1,0,0.553041317
+221097,1146744,Deborah,Brooklynn,Greenpoint,Entire home/apt,116,29,22,43539,0.23,1,335,0.730520626
+221618,4887492,Gershwyn,Manhattan,Tribeca,Privaate room,150,3,82,43606,0.87,2,90,0.425142359
+222054,22486,Lisel,Brooklynn,Park Slope,Privaate room,120,2,23,43358,0.24,6,342,0.479212313
+222304,1153993,Anton,Manhattan,Chelsea,Entire home/apt,199,4,32,43593,0.34,1,28,0.426386125
+223930,1164642,Rosalynn,Brooklynn,Prospect Heights,Entire home/apt,150,5,24,43639,0.25,1,363,0.682747415
+224004,1165231,Deirdre,Manhattan,Harlem,Privaate room,69,1,59,43399,0.63,2,86,0.094910685
+224006,1165231,Deirdre,Manhattan,Harlem,Privaate room,300,55,6,42006,0.08,2,83,0.523601834
+224510,991380,Stefania,Brooklynn,Boerum Hill,Entire home/apt,230,4,18,43286,0.21,1,0,0.23730313
+225297,1173599,Gaya,Manhattan,Midtown,Entire home/apt,125,4,3,43460,0.03,1,0,0.556911476
+225306,1112560,Mary,Brooklynn,Bedford-Stuyvesant,Privaate room,79,3,115,43651,1.21,3,264,0.438710701
+225887,663879,Christopher,Brooklynn,Fort Greene,Privaate room,130,3,154,43635,1.63,2,305,0.678299072
+225926,1177497,Jessica,Brooklynn,Clinton Hill,Privaate room,239,1,164,43647,1.73,11,356,0.903203797
+225976,1177947,Marina,Staten Island,Shore Acres,Entire home/apt,75,6,76,43629,0.8,1,278,0.497569226
+226021,815977,Ryan,Brooklynn,Williamsburg,Entire home/apt,220,3,116,43646,1.23,2,135,0.678582767
+227715,209460,Marylyn,Brooklynn,Bedford-Stuyvesant,Entire home/apt,80,3,234,43646,2.47,4,308,0.915954859
+227735,1187935,Daniel,Manhattan,East Village,Entire home/apt,288,2,120,43640,1.27,1,229,0.706043514
+228317,1191142,Lady Jay,Brooklynn,Bedford-Stuyvesant,Entire home/apt,135,4,82,43603,0.87,1,273,0.500476674
+228496,1192424,Gordon,Manhattan,West Village,Entire home/apt,225,3,13,43611,0.15,1,83,0.529561248
+228517,1192610,Raven,Manhattan,Chinatown,Privaate room,110,30,59,43640,0.64,1,281,0.040501497
+228925,1194377,Marceline,Brooklynn,Bedford-Stuyvesant,Entire home/apt,100,7,63,43642,1.87,1,321,0.508224243
+228979,1190088,Tim,Manhattan,Hell's Kitchen,Privaate room,130,2,52,43326,0.55,1,303,0.238819725
+229367,1097545,Carol,Manhattan,East Village,Privaate room,89,1,278,43649,2.95,3,192,0.558270272
+229874,507304,Derrick,Brooklynn,Sunset Park,Entire home/apt,200,5,1,40910,0.01,1,0,0.995446332
+230321,1203500,Civan,Brooklynn,Bedford-Stuyvesant,Entire home/apt,80,2,35,43625,0.4,1,36,0.207142031
+230854,12221,Lori,Bronx,Concourse,Privaate room,50,5,235,43645,2.49,2,271,0.71367605
+230877,292204,Blanca,Manhattan,East Harlem,Entire home/apt,135,28,115,43646,1.21,2,341,0.103129918
+230956,1207399,Mark,Manhattan,East Village,Privaate room,90,1,109,42279,1.15,1,333,0.935443597
+231414,1184442,Roberto,Manhattan,SoHo,Privaate room,270,5,1,41464,0.01,1,210,0.064295776
+232612,1217241,Dee,Brooklynn,Bedford-Stuyvesant,Entire home/apt,110,3,305,43643,3.24,1,231,0.134100171
+232618,763420,Selma,Manhattan,East Harlem,Entire home/apt,145,1,102,43634,1.52,1,308,0.666067986
+233189,1220414,Michael,Manhattan,Hell's Kitchen,Entire home/apt,179,30,83,43616,0.88,1,292,0.477315961
+233638,1012895,Melody,Queens,Ridgewood,Privaate room,55,1,19,43312,0.25,1,311,0.18474591
+233662,1223568,Tiffany,Manhattan,Midtown,Privaate room,110,2,61,43603,0.65,1,264,0.064310155
+234184,902054,William,Manhattan,Harlem,Entire home/apt,325,5,89,43646,0.94,1,153,0.71300786
+234870,1229984,John,Queens,Long Island City,Privaate room,75,30,65,42947,0.74,3,219,0.028272625
+235552,1234405,Bertie,Brooklynn,South Slope,Entire home/apt,300,1,40,43632,0.44,1,0,0.616295755
+235651,83257,Olan,Manhattan,West Village,Privaate room,130,30,80,43581,0.86,2,332,0.595341141
+235951,1236070,Dan,Manhattan,Midtown,Entire home/apt,190,30,136,43635,1.45,1,120,0.296215331
+235960,1236817,Blue,Manhattan,Lower East Side,Entire home/apt,200,3,100,43248,1.06,1,191,0.596376346
+236671,1240820,Triny,Brooklynn,Williamsburg,Entire home/apt,180,2,125,43652,1.36,3,248,0.411673547
+236788,4166168,Nick And NoÃ©mie,Brooklynn,DUMBO,Entire home/apt,350,5,40,43569,0.5,1,67,0.402566284
+236806,1151987,Juvie,Manhattan,East Village,Entire home/apt,160,4,0,,,1,0,0.817034864
+237127,1146958,Liz,Manhattan,Kips Bay,Entire home/apt,195,30,139,43583,1.59,4,325,0.96014224
+237210,1243192,Jacqueline,Manhattan,Greenwich Village,Entire home/apt,241,30,0,,,1,249,0.884045091
+239055,65064,Ashley & Nir,Manhattan,Chinatown,Entire home/apt,300,7,2,41918,0.03,1,0,0.642953428
+239733,1256874,Nancy,Queens,Ditmars Steinway,Entire home/apt,75,28,49,43642,0.53,1,313,0.008018994
+239766,1257309,Austin,Manhattan,Lower East Side,Entire home/apt,100,5,8,43238,0.11,1,0,0.730855679
+239826,1257760,Jay,Manhattan,Gramercy,Entire home/apt,399,1,0,,,1,12,0.407750948
+239883,136962,Li,Brooklynn,Fort Greene,Privaate room,85,5,124,43610,1.32,1,69,0.091564883
+239899,1258363,Todd,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,80,21,5,43453,0.12,1,0,0.88763399
+240800,1263176,Joseph,Brooklynn,Prospect Heights,Privaate room,55,1,147,43646,1.57,1,293,0.498239633
+241140,1177497,Jessica,Brooklynn,Clinton Hill,Privaate room,438,1,43,43569,0.46,11,363,0.45970154
+241159,1264655,Ruari,Brooklynn,Bedford-Stuyvesant,Entire home/apt,110,6,8,43468,0.33,1,4,0.695175832
+241862,1269455,Mike,Manhattan,West Village,Entire home/apt,200,2,37,43467,0.39,1,257,0.637129995
+242532,1177497,Jessica,Brooklynn,Clinton Hill,Privaate room,279,1,120,43635,1.28,11,362,0.147253606
+242643,1273825,Lauryn,Brooklynn,Williamsburg,Entire home/apt,137,1,24,43466,0.29,1,0,0.720381529
+243229,1276497,Alon,Brooklynn,Bedford-Stuyvesant,Entire home/apt,280,3,5,42925,0.05,1,365,0.394828315
+243708,288711,Andy,Brooklynn,Williamsburg,Entire home/apt,199,30,242,43556,2.59,1,102,0.677592009
+245504,714200,Baron,Manhattan,Inwood,Privaate room,71,4,229,43637,2.45,1,26,0.360754719
+245544,1260921,Victor,Bronx,Kingsbridge,Privaate room,42,2,108,43635,1.36,2,302,0.184472731
+245574,1288460,Al-,Brooklynn,Bedford-Stuyvesant,Entire home/apt,180,2,181,43621,1.92,1,280,0.251406313
+245607,825022,Jaidev,Manhattan,Chelsea,Entire home/apt,226,5,34,43647,0.39,1,302,0.45680805
+246134,283604,Shelley,Brooklynn,Crown Heights,Privaate room,85,3,5,42645,0.05,1,281,0.540980178
+246351,1292250,Jerry,Manhattan,Gramercy,Entire home/apt,135,1,5,42233,0.06,1,0,0.641032589
+246916,3647,Rafael,Queens,Elmhurst,Entire home/apt,79,4,60,43641,0.64,2,297,0.410036448
+246938,936630,Jens,Manhattan,Lower East Side,Entire home/apt,154,1,238,43639,2.59,1,246,0.971663699
+248865,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,34,43577,0.37,28,60,0.100739116
+248871,605463,West Village,Manhattan,West Village,Entire home/apt,700,3,131,43640,1.4,4,296,0.035896877
+249414,1306587,Andy,Manhattan,West Village,Entire home/apt,246,4,6,42914,0.16,1,0,0.452976653
+249618,1307773,Karina,Manhattan,Washington Heights,Privaate room,125,60,4,42188,0.06,1,364,0.680726864
+249867,758441,Fred,Brooklynn,Bedford-Stuyvesant,Privaate room,100,1,7,43380,0.08,4,281,0.554271796
+250259,1311398,Ben,Brooklynn,Williamsburg,Entire home/apt,295,5,125,43653,3.04,1,0,0.351082835
+250311,945499,Kyle,Brooklynn,Crown Heights,Privaate room,150,3,0,,,1,0,0.902013256
+250323,1311870,Christy,Manhattan,Chinatown,Entire home/apt,119,1,49,41976,0.58,1,0,0.709717643
+250536,1313306,Yvette,Manhattan,Harlem,Privaate room,125,1,11,43003,0.12,2,365,0.341879728
+250537,1313306,Yvette,Manhattan,Harlem,Entire home/apt,400,5,0,,,2,365,0.439834859
+250801,1314834,Rhona,Manhattan,Greenwich Village,Entire home/apt,850,3,107,43608,1.15,1,249,0.583810416
+251262,1278802,Anne,Brooklynn,Williamsburg,Privaate room,129,2,241,43645,2.6,1,303,0.502293186
+251277,1317343,Carol,Manhattan,upper West Side,Privaate room,140,1,176,43645,1.89,1,300,0.474551863
+252076,297769,Tunji,Manhattan,Chinatown,Privaate room,115,4,151,43632,1.63,2,323,0.08961175
+252607,1325961,Chris,Manhattan,East Harlem,Entire home/apt,200,3,49,43321,0.53,2,0,0.529730201
+253332,552343,Cynthia,Brooklynn,Sunset Park,Entire home/apt,96,120,13,43344,0.14,1,204,0.526644852
+253466,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,33,43640,0.47,28,60,0.00856337
+253471,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,24,43410,0.32,28,84,0.437632035
+253475,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,59,43640,0.66,28,60,0.227368298
+253548,1331493,Olia,Brooklynn,Brighton Beach,Privaate room,69,1,2,42180,0.04,1,303,0.865625908
+253590,1331850,G,Manhattan,upper West Side,Entire home/apt,185,2,16,43644,0.23,1,261,0.426259601
+253623,1332108,Cici,Manhattan,Harlem,Privaate room,81,2,72,43430,0.77,1,0,0.050727405
+253800,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,24,43580,0.26,28,60,0.952604587
+253803,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,23,43638,0.26,28,60,0.32649632
+253806,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,43,43648,0.47,28,60,0.778065339
+253811,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,30,43649,0.32,28,56,0.416402229
+253815,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,39,43645,0.44,28,84,0.904312462
+253828,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,349,3,8,43307,0.09,28,58,0.327351613
+253839,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,249,3,3,42311,0.03,28,60,0.234863281
+253842,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,299,3,6,43209,0.1,28,60,0.394955592
+253846,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,179,3,4,42342,0.05,28,81,0.153315462
+254131,1267021,Sharma,Queens,Jackson Heights,Privaate room,54,5,56,43652,0.66,3,365,0.247577434
+254168,417504,The Box House Hotel,Brooklynn,Greenpoint,Privaate room,599,3,7,43420,0.08,28,60,0.347170338
+254409,1336542,Stephanie,Brooklynn,Clinton Hill,Entire home/apt,110,1,2,41652,0.03,1,0,0.76897993
+255024,1340007,Roger,Brooklynn,Bushwick,Entire home/apt,220,2,178,43640,2.69,1,297,0.932664
+255476,1302029,Bree,Brooklynn,Williamsburg,Privaate room,89,30,30,43616,0.8,1,91,0.612441887
+255601,1343630,Antonio,Brooklynn,Bedford-Stuyvesant,Entire home/apt,170,2,190,43639,2.04,1,315,0.353723168
+255957,506779,Claudia,Manhattan,Nolita,Entire home/apt,495,7,25,43646,0.27,2,338,0.368280973
+256078,1346437,Cristina,Queens,Sunnyside,Entire home/apt,80,10,81,43616,0.98,2,40,0.375852097
+256328,1347034,Janine,Manhattan,Chelsea,Entire home/apt,760,2,7,43638,0.08,1,361,0.183435091
+256369,1348494,Pamela,Brooklynn,Cobble Hill,Privaate room,98,4,216,43647,2.31,1,288,0.146598016
+257097,315401,Jaime,Brooklynn,Bedford-Stuyvesant,Entire home/apt,125,30,31,43493,0.33,1,218,0.781149185
+257568,1123923,Adolfo,Brooklynn,Cypress Hills,Privaate room,48,90,53,42959,0.57,2,1,0.852963816
+257787,1356046,Daniel,Brooklynn,Williamsburg,Privaate room,64,3,247,43637,2.65,2,117,0.507625789
+258284,1358312,S,Brooklynn,Clinton Hill,Entire home/apt,154,3,233,43565,2.5,1,0,0.531830553
+258397,1354758,Annie,Brooklynn,Park Slope,Entire home/apt,139,3,135,43640,1.45,1,204,0.285114624
+258686,1233267,Kim,Queens,St. Albans,Privaate room,75,4,20,42368,0.23,1,0,0.487899941
+258688,436599,Chad,Manhattan,West Village,Entire home/apt,325,4,46,43618,0.5,1,20,0.099410645
+258690,1359611,Andrea,Manhattan,Chelsea,Entire home/apt,195,365,10,41938,0.12,1,0,0.351455398
+258740,1360043,Adrienne,Manhattan,Harlem,Privaate room,58,1,143,43281,2.83,1,0,0.949961312
+258838,1360198,Marina,Staten Island,Arrochar,Entire home/apt,250,2,21,43607,0.26,4,333,0.534860218
+258876,1360198,Marina,Staten Island,Arrochar,Privaate room,50,7,0,,,4,189,0.983541548
+259946,1360198,Marina,Staten Island,Arrochar,Entire home/apt,125,2,8,43604,0.09,4,353,0.239519226
+260451,52335,Alexander,Brooklynn,Fort Greene,Entire home/apt,70,7,4,42975,0.05,2,0,0.306907451
+260765,480943,Ro,Manhattan,Upper East Side,Entire home/apt,189,2,314,43647,3.45,2,206,0.12753883
+261194,696482,Christine,Brooklynn,Bedford-Stuyvesant,Entire home/apt,130,3,18,43634,0.25,1,1,0.942744341
+261259,1370358,Keiko,Manhattan,West Village,Entire home/apt,145,7,11,42151,0.12,1,0,0.26713667
+261344,568103,Liah,Manhattan,Financial District,Privaate room,101,7,51,43618,0.55,1,307,0.226447751
+261674,1372786,Lindsey,Manhattan,Chelsea,Privaate room,95,5,20,42826,0.33,1,0,0.456229594
+261781,1359519,Nadya,Manhattan,West Village,Entire home/apt,375,7,8,43099,0.12,1,0,0.335080077
+262343,1376385,Lauren,Manhattan,Lower East Side,Entire home/apt,153,31,59,43622,0.63,1,27,0.292388133
+262405,1376778,Wade,Brooklynn,East Flatbush,Entire home/apt,92,4,54,43640,0.62,1,27,0.070945889
+262478,535128,Juliana,Manhattan,Lower East Side,Privaate room,80,5,10,43465,0.46,1,348,0.15138052
+262583,605463,West Village,Manhattan,West Village,Entire home/apt,300,4,153,43641,1.66,4,246,0.4398626
+263005,1380060,Marisa And Colin,Brooklynn,Fort Greene,Entire home/apt,145,3,110,43618,1.2,1,15,0.370071335
+263190,1020539,Dominique,Manhattan,East Village,Privaate room,88,2,69,43466,0.91,2,0,0.863048463
+263232,1381171,Nicole,Manhattan,Harlem,Entire home/apt,155,1,1,43492,0.18,1,5,0.343179267
+263502,1382749,Shaun,Brooklynn,Williamsburg,Entire home/apt,185,180,24,42235,0.26,1,0,0.22573372
+263776,1384111,Joanne,Queens,Sunnyside,Privaate room,73,2,95,43467,1.02,2,0,0.702811347
+263888,1384559,C,Manhattan,upper West Side,Entire home/apt,225,2,129,43583,1.41,1,107,0.318552893
+264323,305972,Allan,Manhattan,Morningside Heights,Privaate room,85,7,171,43555,1.84,2,144,0.909089065
+265036,21188,Leo,Brooklynn,Crown Heights,Privaate room,99,2,20,43625,0.59,1,98,0.778752712
+265064,1123923,Adolfo,Brooklynn,Cypress Hills,Privaate room,48,90,17,42858,0.27,2,0,0.650815358
+265145,1390947,Akiko,Manhattan,Theater District,Entire home/apt,200,5,8,42012,0.09,1,0,0.622405422
+265506,1392440,Sandra,Manhattan,Upper East Side,Entire home/apt,485,7,11,42309,0.12,1,0,0.114121149
+265831,1394190,Jen,Manhattan,Nolita,Entire home/apt,310,5,5,43286,0.09,1,89,0.315660865
+265912,1394719,Jill,Brooklynn,Williamsburg,Entire home/apt,110,4,0,,,1,354,0.719260072
+266146,1385157,Brian,Manhattan,upper West Side,Entire home/apt,109,30,36,43543,0.39,5,286,0.843319985
+266155,1385157,Brian,Manhattan,upper West Side,Entire home/apt,167,30,16,43555,0.17,5,252,0.642733562
+266351,1396546,Elena,Brooklynn,Fort Greene,Entire home/apt,147,15,5,43293,0.12,1,189,0.674071292
+266437,1397061,Asia Joanna,Manhattan,Chelsea,Entire home/apt,220,4,0,,,1,0,0.223056241
+266449,1397115,Drew,Manhattan,Lower East Side,Entire home/apt,195,4,68,43619,0.77,1,271,0.257529807
+266756,1398809,Roberto  Mike,Manhattan,Little Italy,Entire home/apt,199,28,89,43281,0.99,1,0,0.546216445
+267376,638721,Fred,Manhattan,Financial District,Privaate room,65,30,10,43640,1.02,1,0,0.149557251
+267435,1402454,Jocelin,Queens,Rego Park,Privaate room,55,1,38,43647,0.85,1,0,0.729059132
+267535,1402951,Clara,Bronx,Wakefield,Privaate room,50,2,15,43625,0.17,1,337,0.678640431
+267652,164675,Janice,Brooklynn,Kensington,Privaate room,60,2,20,43486,0.42,1,347,0.559454994
+267708,661399,Vivianne,Manhattan,East Harlem,Privaate room,99,3,25,43631,0.96,2,127,0.280448365
+268392,1406773,Eyal And Amy,Manhattan,Harlem,Entire home/apt,130,2,35,43612,0.42,1,41,0.986700748
+268481,1380703,Vishal,Brooklynn,Williamsburg,Entire home/apt,290,30,1,41541,0.01,1,0,0.123069003
+268868,1408733,Sergio,Manhattan,Chelsea,Entire home/apt,350,3,64,43618,0.7,1,18,0.6252108
+269283,1410714,Antoinette,Brooklynn,Crown Heights,Privaate room,50,3,26,43512,0.33,1,158,0.80443915
+269889,1413098,M,Queens,Long Island City,Privaate room,96,2,244,43641,2.74,1,270,0.850553293
+270139,1093220,Chavisa,Brooklynn,Bushwick,Privaate room,45,15,21,43480,0.29,3,88,0.152183227
+270231,1366310,Janina,Queens,Woodside,Privaate room,85,2,270,43653,2.95,2,306,0.991005916
+270315,1398639,Juliet,Brooklynn,Bedford-Stuyvesant,Privaate room,34,10,16,43551,0.19,3,216,0.642530757
+270345,1415590,Cameron,Manhattan,East Village,Entire home/apt,250,3,24,43643,0.26,1,16,0.678151995
+270680,1315849,Javier Pedraza,Brooklynn,Williamsburg,Privaate room,190,1,30,43644,0.33,2,365,0.866410812
+270681,1315849,Javier Pedraza,Brooklynn,Williamsburg,Privaate room,75,2,5,42254,0.06,2,365,0.930275084
+271083,1217923,Kevin,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,93,4,115,43628,1.25,1,312,0.35606524
+271128,1417166,Lex,Brooklynn,Bedford-Stuyvesant,Privaate room,60,5,9,43641,0.19,2,33,0.626236163
+271130,1417166,Lex,Brooklynn,Bedford-Stuyvesant,Privaate room,65,5,45,43611,0.52,2,0,0.802834544
+271694,1387370,James,Manhattan,Midtown,Entire home/apt,125,365,19,42255,0.21,1,365,0.884533236
+271950,1362808,Max,Manhattan,Upper East Side,Entire home/apt,300,3,5,43465,0.08,1,27,0.693481726
+271954,1423798,Aj,Manhattan,Greenwich Village,Entire home/apt,150,2,203,43636,2.22,1,300,0.117938573
+272026,1423613,Arthur,Manhattan,Washington Heights,Entire home/apt,56,122,20,43102,0.41,1,216,0.037207649
+272044,1195295,M,Manhattan,East Village,Entire home/apt,299,3,49,43400,0.53,1,365,0.269707488
+272427,511993,Diana,Brooklynn,Greenpoint,Privaate room,60,4,6,43576,0.07,1,303,0.510108863
+272706,1402817,Valerie,Brooklynn,Fort Greene,Entire home/apt,88,5,7,42904,0.08,1,0,0.000746377
+272738,1427381,Elizabeth,Brooklynn,Williamsburg,Privaate room,60,2,35,43646,0.38,2,161,0.378030497
+273190,605463,West Village,Manhattan,West Village,Entire home/apt,1300,5,28,43368,0.31,4,297,0.395472408
+273256,1429642,Delia,Manhattan,East Harlem,Privaate room,200,6,0,,,1,0,0.095698091
+274062,1433395,Stacia,Manhattan,Harlem,Privaate room,99,2,54,43640,0.88,1,50,0.386254442
+274329,1434654,Andrew,Brooklynn,Bushwick,Entire home/apt,110,3,115,43641,1.75,2,28,0.951789943
+274376,1434931,Aaron,Brooklynn,Clinton Hill,Entire home/apt,135,5,6,43640,0.13,1,317,0.382806401
+274743,1436404,Catherine,Manhattan,Upper East Side,Entire home/apt,110,15,1,41882,0.02,1,275,0.401218077
+275976,1417757,Kwab,Brooklynn,Bedford-Stuyvesant,Entire home/apt,165,3,204,43646,2.31,1,80,0.191650235
+276216,1440691,Dena,Brooklynn,Sunset Park,Entire home/apt,127,180,1,42614,0.03,1,365,0.884113501
+276317,130901,Chauncey,Brooklynn,Prospect Heights,Entire home/apt,402,3,89,43639,0.97,1,340,0.782228776
+276482,305972,Allan,Manhattan,Harlem,Privaate room,85,6,130,43618,1.42,2,97,0.987351938
+277207,1447684,Rosa,Brooklynn,Greenpoint,Privaate room,75,7,15,43624,0.25,3,365,0.479711159
+277370,1448432,Jim,Manhattan,East Village,Entire home/apt,139,30,52,43598,0.6,1,314,0.965960739
+277883,950657,Michelle,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,70,6,58,43098,0.63,1,0,0.160662232
+278090,1451723,Bia,Manhattan,East Harlem,Privaate room,50,3,208,43627,2.32,1,339,0.295537534
+278145,1452026,Heidi,Queens,Astoria,Privaate room,30,5,3,42906,0.03,1,0,0.022645023
+278631,1132207,Cathryne,Manhattan,West Village,Entire home/apt,250,30,7,41385,0.08,1,35,0.767508813
+278876,368528,Ally,Brooklynn,Crown Heights,Privaate room,64,1,1,42812,0.04,1,0,0.922832035
+279093,1455825,Erica,Manhattan,Harlem,Entire home/apt,300,3,2,43200,0.06,1,365,0.792122997
+279857,1420300,Gordy,Brooklynn,Bedford-Stuyvesant,Entire home/apt,800,4,122,43648,1.37,1,257,0.943775165
+279969,240427,Naimah,Brooklynn,Bedford-Stuyvesant,Entire home/apt,100,3,63,43634,0.72,2,5,0.653815538
+280315,1151818,Gabrielle,Brooklynn,Crown Heights,Entire home/apt,250,5,26,41943,0.28,1,0,0.319033562
+281521,70614,Vimal,Manhattan,West Village,Entire home/apt,200,27,1,41184,0.01,1,0,0.810022726
+281756,1468658,Barbara,Brooklynn,Greenpoint,Entire home/apt,140,5,14,43635,0.16,1,0,0.895915648
+281851,1469036,Tw,Manhattan,Harlem,Privaate room,130,1,107,43641,2.38,1,304,0.29761271
+282341,1471384,Dan,Brooklynn,Kensington,Entire home/apt,90,30,3,42946,0.05,1,286,0.089877723
+282443,36897,Lydia,Manhattan,Chinatown,Entire home/apt,90,3,107,43603,1.17,1,0,0.702554631
+282514,1464358,Dian,Brooklynn,Bedford-Stuyvesant,Privaate room,97,3,29,43641,1.57,1,118,0.880101273
+282863,322934,Kate,Brooklynn,Gowanus,Entire home/apt,91,6,69,43637,0.76,1,265,0.376177712
+282977,1474071,Diana,Brooklynn,Park Slope,Privaate room,125,3,232,43652,2.52,1,303,0.44780657
+283072,1474637,Eliza,Brooklynn,Cypress Hills,Privaate room,75,7,0,,,1,0,0.964525916
+283090,511175,Luis,Manhattan,East Village,Entire home/apt,180,7,24,43322,0.26,2,125,0.975338211
+283184,1427381,Elizabeth,Brooklynn,Williamsburg,Entire home/apt,300,7,0,,,2,354,0.044892096
+283272,524730,Oz,Brooklynn,Williamsburg,Entire home/apt,100,19,5,42585,0.06,2,6,0.795268963
+283550,1476954,Jose,Manhattan,Hell's Kitchen,Entire home/apt,175,3,10,43576,0.23,1,0,0.196573513
+284208,1366270,Louisa,Brooklynn,South Slope,Privaate room,65,4,36,43416,0.47,2,80,0.518965789
+284855,1482460,Dara,Manhattan,West Village,Entire home/apt,240,5,94,43635,1.1,1,134,0.101225821
+285442,1475866,Jesper,Manhattan,East Village,Privaate room,300,6,1,41400,0.01,1,0,0.30800683
+285492,1486034,Eric,Manhattan,Chelsea,Entire home/apt,385,1,63,43315,0.71,1,364,0.958597472
+285716,1487126,Anamaria,Brooklynn,Bushwick,Privaate room,47,15,5,41528,0.06,1,0,0.735162402
+286662,1491538,Erika,Brooklynn,Crown Heights,Entire home/apt,110,3,238,43648,2.6,1,297,0.315277868
+286838,1492339,Karin,Manhattan,Harlem,Privaate room,75,2,101,42308,1.1,1,0,0.59495401
+287397,1029021,Jameelah,Brooklynn,Bedford-Stuyvesant,Entire home/apt,100,3,21,43640,0.23,3,43,0.628739208
+287408,1495090,Carey,Manhattan,Hell's Kitchen,Entire home/apt,165,2,72,43312,0.82,1,10,0.359521099
+287417,1495196,Yvette,Brooklynn,Bedford-Stuyvesant,Entire home/apt,300,2,40,43639,0.68,1,0,0.673871678
+287421,1495141,Keow,Brooklynn,Cobble Hill,Entire home/apt,140,3,103,42948,1.13,1,189,0.291104871
+287481,1495502,Olly,Brooklynn,Williamsburg,Entire home/apt,120,6,66,43586,0.72,2,17,0.991222445
+287839,1498424,Hibo,Brooklynn,Fort Greene,Entire home/apt,175,3,35,43643,0.4,1,289,0.772571722
+287845,1496847,Paul & Ewa,Brooklynn,Carroll Gardens,Entire home/apt,275,31,121,43647,1.33,1,305,0.898148195
+289020,347036,Jasmine,Manhattan,East Village,Entire home/apt,179,8,15,43341,0.19,1,0,0.859110457
+289037,632334,Michael,Brooklynn,Carroll Gardens,Entire home/apt,189,2,13,42618,0.18,1,0,0.744558489
+289288,1502469,Max,Manhattan,East Village,Entire home/apt,219,2,129,43596,1.42,1,220,0.726506809
+289665,1503831,Elle,Manhattan,West Village,Entire home/apt,450,20,157,42593,1.71,1,0,0.997040524
+289703,815741,Geoff,Manhattan,SoHo,Entire home/apt,249,5,8,42700,0.11,1,0,0.789336636
+289958,1454655,Ronaldo,Queens,Long Island City,Privaate room,65,2,5,41891,0.06,1,362,0.314439324
+289995,1505217,Pia,Brooklynn,Greenpoint,Entire home/apt,250,4,46,43639,0.52,1,121,0.613863099
+290457,207124,Mikki & Bazi,Manhattan,Chinatown,Entire home/apt,139,30,37,43512,0.41,1,153,0.478323472
+291524,1470688,Philip,Manhattan,upper West Side,Entire home/apt,209,7,14,43641,0.16,1,205,0.019328018
+291714,1321504,Rohan,Brooklynn,Crown Heights,Entire home/apt,120,5,37,43205,0.45,1,310,0.113196885
+291812,1509416,Natalia,Queens,Astoria,Entire home/apt,70,5,1,42612,0.03,1,0,0.580032931
+292047,1490696,Alejandra,Manhattan,West Village,Privaate room,90,3,209,43650,2.38,1,236,0.18287265
+292121,169927,Hubert,Manhattan,Hell's Kitchen,Entire home/apt,199,3,4,43355,0.07,1,200,0.288831384
+292266,1513294,Urszula,Brooklynn,Bushwick,Privaate room,50,60,17,43556,0.19,2,74,0.426852785
+292637,1021834,Svetlana,Brooklynn,Crown Heights,Entire home/apt,100,5,0,,,1,0,0.503168236
+293004,910719,Sena,Manhattan,Harlem,Entire home/apt,110,1,0,,,1,0,0.23531785
+293837,1495502,Olly,Brooklynn,Williamsburg,Entire home/apt,157,4,54,43627,0.66,2,12,0.728524736
+294227,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,43,43638,0.49,28,84,0.588040905
+294239,1521432,Carmen,Queens,Astoria,Entire home/apt,192,3,7,42843,0.08,1,0,0.991456741
+294242,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,75,43621,0.93,28,84,0.211237034
+294250,45682,Irina,Manhattan,upper West Side,Entire home/apt,150,1,88,43623,0.99,1,0,0.13937838
+294259,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,73,43646,0.84,28,56,0.053588267
+294263,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,89,43647,1.06,28,62,0.736518378
+294280,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,23,43578,0.26,28,81,0.848591725
+294297,1521604,Summer,Brooklynn,Williamsburg,Entire home/apt,105,3,11,43639,0.16,1,0,0.94685785
+294353,430188,Pam,Brooklynn,Williamsburg,Privaate room,135,28,84,43512,1.12,6,310,0.737333081
+294490,417504,The Box House Hotel,Brooklynn,Greenpoint,Entire home/apt,199,3,54,43626,0.61,28,60,0.93388754
+294717,1523610,Marissa,Brooklynn,Williamsburg,Privaate room,125,3,17,42144,0.19,1,0,0.076400425
+295231,1387286,Felicia,Brooklynn,Williamsburg,Privaate room,60,7,1,41722,0.02,2,0,0.073789744
+295379,1525761,Ric,Brooklynn,Williamsburg,Entire home/apt,85,1,73,43635,0.89,1,0,0.580084216
+295998,568585,Alan,Manhattan,upper West Side,Entire home/apt,300,3,36,43586,0.47,1,29,0.836163698
+296345,496164,Todd,Brooklynn,Williamsburg,Privaate room,75,2,98,43616,1.07,2,264,0.87646446
+296361,1528912,Weiwei,Queens,Elmhurst,Privaate room,55,1,63,43603,0.89,2,341,0.14856453
+296658,1530106,Glenn,Brooklynn,Crown Heights,Privaate room,44,5,2,42999,0.09,1,0,0.005746451
+296717,1530310,Jacques,Brooklynn,Bedford-Stuyvesant,Privaate room,55,5,18,43383,0.2,3,0,0.364213595
+296844,839679,Brady,Brooklynn,Williamsburg,Privaate room,30,3,24,41612,0.28,3,0,0.889698223
+297611,997124,Alison,Brooklynn,Fort Greene,Privaate room,35,3,1,43233,0.07,1,0,0.564287134
+297962,1535987,Sergio,Brooklynn,Williamsburg,Privaate room,70,1,2,43102,0.05,1,363,0.511163783
+298073,1536533,Irina,Brooklynn,Williamsburg,Entire home/apt,130,14,23,42682,0.25,1,25,0.341640085
+298759,1539749,Edward,Brooklynn,Bedford-Stuyvesant,Privaate room,52,2,93,43653,1.12,4,0,0.503810772
+298854,1412944,Jason,Brooklynn,Williamsburg,Privaate room,75,3,0,,,1,358,0.468590301
+299062,236421,Jessica,Manhattan,Upper East Side,Privaate room,190,3,0,,,2,0,0.623879138
+299078,787261,L,Manhattan,SoHo,Entire home/apt,250,5,152,43639,1.69,1,109,0.121381019
+299531,1220404,Tom,Brooklynn,East New York,Entire home/apt,100,1,119,43646,1.39,2,289,0.642851839
+299699,1557998,Eliza,Brooklynn,Greenpoint,Entire home/apt,130,4,9,43192,0.1,1,188,0.920315681
+301034,1550578,Ron,Manhattan,Harlem,Privaate room,140,2,44,43642,0.49,1,260,0.631174017
+302057,1555897,Alice,Brooklynn,Flatbush,Privaate room,75,2,158,43467,1.77,1,168,0.033900249
+302758,8605,Dimitry,Manhattan,East Harlem,Entire home/apt,150,7,12,42455,0.14,1,0,0.100979174
+303345,1561505,Ibrahima,Manhattan,East Harlem,Entire home/apt,90,3,51,43589,0.57,1,311,0.004105853
+303462,1562045,Antonio,Manhattan,upper West Side,Entire home/apt,295,1,0,,,1,146,0.684008075
+304799,185753,Carolyn,Manhattan,upper West Side,Entire home/apt,150,2,11,43625,0.13,1,2,0.115627047
+305211,1570170,Kristina,Brooklynn,Williamsburg,Entire home/apt,180,3,236,43634,2.74,2,242,0.933560599
+306702,1577493,Tina,Brooklynn,Fort Greene,Privaate room,135,3,16,43344,0.18,1,0,0.690726512
+306799,1577961,Oona,Brooklynn,Bushwick,Privaate room,65,5,123,43524,1.42,1,46,0.556674056
+309342,1586945,Ben,Manhattan,upper West Side,Privaate room,99,3,14,42235,0.22,1,365,0.210557307
+310220,1590548,Magdalena,Brooklynn,Greenpoint,Privaate room,149,14,65,43464,0.73,1,364,0.433763864
+310272,1390555,Jonathan,Staten Island,Clifton,Privaate room,59,1,50,43619,0.56,1,352,0.120396091
+310325,745069,Kimberly,Manhattan,Harlem,Privaate room,75,3,33,43626,0.39,3,301,0.707716007
+310338,745069,Kimberly,Manhattan,Harlem,Privaate room,75,3,30,43466,0.35,3,322,0.527600154
+310524,1597481,Mary,Brooklynn,Bedford-Stuyvesant,Privaate room,75,3,13,43496,0.15,1,298,0.310017848
+310796,1385157,Brian,Manhattan,upper West Side,Entire home/apt,109,30,18,43623,0.2,5,285,0.418522482
+311003,72747,Karen,Brooklynn,Crown Heights,Entire home/apt,225,4,1,41385,0.01,1,342,0.178671209
+311343,1601664,Junior,Manhattan,East Harlem,Privaate room,86,3,216,43599,2.44,1,250,0.031465423
+311356,142147,Richard,Queens,Ridgewood,Privaate room,52,2,98,43586,1.09,1,326,0.117584834
+312429,1606222,P,Brooklynn,Prospect Heights,Privaate room,100,2,61,43618,0.86,1,90,0.282640817
+313890,1613244,Ariel,Manhattan,Lower East Side,Entire home/apt,99,30,13,43578,0.34,9,289,0.493041632
+314982,1617817,Chris,Manhattan,East Village,Privaate room,89,3,136,43647,1.52,1,193,0.692667703
+316238,279078,Andrew & Markus,Brooklynn,Bedford-Stuyvesant,Entire home/apt,135,2,39,43625,0.47,2,293,0.401199637
+317838,1631400,Sean And Kiana,Manhattan,West Village,Entire home/apt,199,14,65,43647,0.73,1,155,0.803598851
+317905,1631733,Jane,Brooklynn,Kensington,Entire home/apt,89,3,62,43467,0.71,1,189,0.000280756
+318021,1632149,Michael,Manhattan,Harlem,Privaate room,110,3,47,43646,0.57,1,248,0.313505167
+318187,1633100,Ana,Brooklynn,Bushwick,Entire home/apt,120,2,42,43636,0.48,1,238,0.736783369
+319724,1639120,Jason,Brooklynn,Williamsburg,Privaate room,59,3,207,43632,2.29,2,284,0.978176097
+319798,9647066,Maria Luiza,Brooklynn,Bay Ridge,Privaate room,49,4,72,43649,0.81,2,343,0.025690765
+319844,1639884,Nora,Brooklynn,Greenpoint,Privaate room,79,14,22,43587,0.25,1,268,0.856747702
+320865,1643782,Katy,Manhattan,Harlem,Entire home/apt,135,30,25,43555,0.28,1,249,0.7167519
+320876,516347,Lillian,Brooklynn,South Slope,Entire home/apt,185,2,215,43646,2.42,1,291,0.384375959
+320877,1366194,Fabiana,Brooklynn,Williamsburg,Entire home/apt,225,4,26,42910,0.73,1,0,0.420396701
+321014,1644452,Erin,Manhattan,Gramercy,Entire home/apt,245,5,18,43102,0.21,1,0,0.298936929
+321136,1644999,Candice,Manhattan,Washington Heights,Entire home/apt,115,3,18,43465,0.21,1,31,0.996396492
+322037,1649300,James,Brooklynn,Williamsburg,Entire home/apt,325,2,320,43653,3.6,1,0,0.972686986
+322604,1651591,Todd,Brooklynn,Williamsburg,Privaate room,95,2,160,43648,1.8,2,79,0.099656503
+322974,1610852,Amanda,Manhattan,West Village,Privaate room,120,2,78,43504,1.22,1,0,0.73159175
+323706,6064192,Ted And Diane,Manhattan,upper West Side,Entire home/apt,499,30,64,43315,0.72,1,157,0.775261764
+324115,1639120,Jason,Brooklynn,Williamsburg,Privaate room,75,2,219,43635,2.44,2,277,0.38640717
+324517,1660724,S,Manhattan,Upper East Side,Privaate room,109,1,66,43079,0.94,1,353,0.105078182
+324800,1661965,Mathias,Brooklynn,Williamsburg,Entire home/apt,160,3,25,43456,0.29,1,0,0.485921874
+325429,92788,Sara,Manhattan,Upper East Side,Entire home/apt,219,4,102,43644,1.15,2,280,0.161042816
+326832,668564,Nitzan,Manhattan,Upper East Side,Entire home/apt,159,2,32,43639,0.47,1,7,0.496470517
+326956,51038,Erica,Brooklynn,Clinton Hill,Privaate room,180,3,15,43577,0.18,6,266,0.767452017
+327521,82896,Esther,Manhattan,East Village,Entire home/apt,150,5,1,42324,0.02,1,0,0.556799815
+327778,1675255,Jill,Manhattan,Kips Bay,Entire home/apt,106,3,12,43646,0.14,1,271,0.358107093
+328040,1676487,Robyn,Manhattan,Midtown,Entire home/apt,299,10,19,43627,0.27,1,101,0.671517653
+328693,1013131,Joseph,Manhattan,upper West Side,Entire home/apt,179,3,297,43640,3.37,1,205,0.918856111
+328744,890215,Duane,Brooklynn,Crown Heights,Entire home/apt,165,3,12,43653,0.13,1,343,0.276821965
+329064,1680375,Marc,Brooklynn,Flatbush,Entire home/apt,500,4,9,42737,0.11,1,0,0.413108281
+329310,1681546,Todd,Manhattan,Chinatown,Entire home/apt,250,15,9,42504,0.1,1,190,0.939965637
+329385,312288,Paula,Manhattan,Inwood,Privaate room,87,7,46,43610,0.62,2,310,0.777412197
+333189,1697784,Jonathan,Brooklynn,Williamsburg,Privaate room,79,4,42,43640,0.47,2,52,0.884034598
+333323,1698391,Pat,Manhattan,Hell's Kitchen,Privaate room,75,2,118,43647,2.11,3,312,0.684717747
+334607,52043,Patrick,Brooklynn,Williamsburg,Entire home/apt,200,30,53,43588,0.6,1,0,0.504111089
+334781,547177,Chryslaine,Manhattan,Harlem,Privaate room,80,1,15,43640,0.21,1,329,0.709229727
+335797,1709216,Steve And Heather,Brooklynn,East Flatbush,Entire home/apt,115,3,64,43596,0.72,4,333,0.142947795
+335819,1709216,Steve And Heather,Brooklynn,East Flatbush,Entire home/apt,115,3,51,43582,0.58,4,327,0.333983533
+335820,1709216,Steve And Heather,Brooklynn,East Flatbush,Entire home/apt,120,3,79,43584,0.88,4,349,0.476836362
+336220,1711529,Jason,Manhattan,Harlem,Privaate room,125,3,202,43635,2.29,1,217,0.910213999
+339456,1723485,Mary,Manhattan,upper West Side,Entire home/apt,387,1,23,43465,0.63,1,0,0.403181281
+341525,1732559,J,Manhattan,Hell's Kitchen,Privaate room,95,6,62,43617,0.76,2,80,0.844689579
+341982,483013,Yj,Manhattan,upper West Side,Entire home/apt,99,2,36,42239,0.45,1,0,0.93985169
+342027,168417,Marie,Manhattan,Upper East Side,Entire home/apt,121,1,16,43632,0.19,2,351,0.464328934
+342965,1740233,Gladys,Manhattan,Hell's Kitchen,Entire home/apt,350,4,24,42999,0.27,1,362,0.780971804
+342995,1740216,Laura,Manhattan,Harlem,Privaate room,75,2,77,43647,0.88,2,144,0.815890626
+343276,1732559,J,Manhattan,Hell's Kitchen,Privaate room,95,5,110,43611,1.27,2,43,0.063192035
+343971,10609846,Ben,Manhattan,Harlem,Privaate room,89,1,56,43297,0.64,1,365,0.735297675
+344019,1746209,R.,Manhattan,West Village,Privaate room,195,1,7,41067,0.08,1,129,0.458418786
+344068,1745312,Steven,Manhattan,Flatiron District,Privaate room,160,21,0,,,1,0,0.534196446
+344092,1745402,Tony,Brooklynn,Sunset Park,Entire home/apt,70,18,19,42564,0.22,1,0,0.967021441
+346248,1755339,Julie,Manhattan,Greenwich Village,Privaate room,100,3,7,42155,0.09,1,0,0.107935207
+346805,562614,Beth,Manhattan,Lower East Side,Entire home/apt,140,1,53,41940,0.6,1,0,0.729093943
+347865,251176,Jason,Manhattan,East Village,Entire home/apt,189,3,265,43640,2.99,2,355,0.129802904
+349841,202507,Nom,Brooklynn,Williamsburg,Privaate room,160,5,0,,,1,0,0.166182945
+350168,1774431,Kate,Brooklynn,Park Slope,Entire home/apt,178,30,8,43102,0.1,1,280,0.107769157
+350525,74777,Niki & Colin,Brooklynn,Crown Heights,Entire home/apt,145,14,46,43270,0.52,1,38,0.944655489
+351530,1747222,Sascha,Brooklynn,Park Slope,Entire home/apt,125,5,6,43408,0.08,1,31,0.122667857
+351859,417652,Ron,Manhattan,Chelsea,Entire home/apt,265,4,75,43647,0.86,1,324,0.898707213
+352651,1785800,Marvet,Brooklynn,Prospect-Lefferts Gardens,Privaate room,77,5,11,43639,0.13,3,365,0.304043491
+352864,1786901,Shai,Manhattan,Upper East Side,Privaate room,60,3,5,43645,1.47,9,0,0.50205014
+353317,314377,Marc,Manhattan,Chinatown,Entire home/apt,129,3,132,43639,1.49,1,171,0.358386438
+354095,1474749,Jared,Manhattan,East Village,Entire home/apt,199,6,41,43623,0.47,1,36,0.280357784
+355106,1797859,Camila,Brooklynn,Prospect-Lefferts Gardens,Privaate room,92,7,34,43562,0.39,1,332,0.28760717
+356230,1251762,Molly,Brooklynn,Crown Heights,Entire home/apt,185,3,34,41799,0.39,1,0,0.028324497
+357509,684129,Ellie,Manhattan,Midtown,Entire home/apt,110,7,27,43525,0.31,1,192,0.201330298
+359982,1631288,Kay,Brooklynn,Williamsburg,Privaate room,65,4,30,43568,0.34,1,139,0.357650598
+360400,1386983,Candice,Manhattan,Midtown,Privaate room,135,3,214,43618,2.45,2,167,0.497339318
+361803,1562039,Jennifer,Manhattan,Upper East Side,Shared room,115,30,12,43205,0.14,1,0,0.537521937
+363320,390251,Lilly,Manhattan,Harlem,Privaate room,175,2,6,43311,0.09,4,10,0.29306431
+363673,256239,Tracey,Manhattan,upper West Side,Privaate room,3000,7,0,,,1,365,0.281521873
+364275,1840564,Rico,Brooklynn,Williamsburg,Privaate room,72,3,156,43650,1.8,1,110,0.216450748
+364785,1842714,Susan,Brooklynn,Park Slope,Privaate room,80,2,30,43463,0.74,1,0,0.193317383
+367042,774128,Andre,Brooklynn,Crown Heights,Entire home/apt,125,5,1,41886,0.02,1,0,0.67906515
+367810,1728785,Veronika And John,Brooklynn,Greenpoint,Privaate room,120,5,3,43579,0.09,1,242,0.42914917
+369411,179679,Ginger,Brooklynn,Williamsburg,Privaate room,94,2,272,43643,3.18,3,22,0.242086722
+369567,1863447,Luke,Brooklynn,Prospect Heights,Privaate room,56,3,63,43466,0.82,1,0,0.592580748
+369671,1863713,Alix,Manhattan,East Village,Entire home/apt,549,30,58,43647,0.66,1,200,0.85709424
+371138,1869567,Max,Brooklynn,Greenpoint,Entire home/apt,190,2,5,42289,0.1,1,0,0.711214201
+373618,1879389,Christina,Brooklynn,Williamsburg,Privaate room,129,3,63,43646,0.71,2,87,0.009644418
+374548,1884204,Mark,Brooklynn,Bedford-Stuyvesant,Entire home/apt,85,5,268,43648,3.04,2,202,0.161713856
+375249,1887999,Rimma & Jim,Staten Island,Graniteville,Privaate room,20,3,80,43611,0.92,1,226,0.188828437
+377217,1895957,Ido,Manhattan,upper West Side,Entire home/apt,145,3,22,42839,0.25,1,0,0.064876991
+378460,1900800,Geny,Manhattan,Hell's Kitchen,Entire home/apt,200,7,13,43633,0.15,1,327,0.628098846
+380416,438133,Ellis,Brooklynn,Park Slope,Entire home/apt,125,4,23,43585,0.67,2,262,0.438332784
+380730,1317588,Alexander,Brooklynn,Sheepshead Bay,Entire home/apt,50,30,3,43438,0.08,1,0,0.354074256
+382523,732535,William,Manhattan,Harlem,Privaate room,160,3,10,43397,0.12,3,359,0.296820667
+382524,732535,William,Manhattan,Harlem,Privaate room,180,3,14,43559,0.16,3,348,0.138725936
+385190,1928213,Brace,Manhattan,Inwood,Privaate room,100,1,20,43622,0.28,1,0,0.81927288
+385657,1930204,Sophia,Brooklynn,Williamsburg,Privaate room,70,5,2,42139,0.02,1,0,0.738309302
+385824,1931205,Orit,Bronx,Spuyten Duyvil,Entire home/apt,120,2,47,43649,1.22,1,318,0.345612144
+386555,773928,Nen,Staten Island,Stapleton,Privaate room,110,2,6,43466,0.19,1,363,0.310721877
+386744,1935291,Cristina,Manhattan,Upper East Side,Privaate room,105,7,93,43623,1.06,1,70,0.897466118
+386799,1935605,Jon,Manhattan,Midtown,Entire home/apt,250,3,116,42372,1.32,1,0,0.784194977
+387324,1828506,Yogi,Manhattan,Kips Bay,Privaate room,74,240,15,43347,0.17,1,90,0.546356622
+387377,390251,Lilly,Manhattan,Harlem,Entire home/apt,165,2,70,43619,0.8,4,15,0.02803346
+387666,1939728,Michael & Aleksandra,Manhattan,Washington Heights,Privaate room,99,3,4,43528,0.41,1,335,0.935790223
+387735,1146958,Liz,Manhattan,Gramercy,Entire home/apt,125,30,128,43627,1.46,4,0,0.303749982
+389482,1947974,Constance F.,Queens,Briarwood,Privaate room,75,1,59,43413,0.69,2,0,0.511608503
+391948,1960128,Luana,Queens,Ozone Park,Shared room,45,1,8,42277,0.11,2,364,0.843379586
+391955,1960189,Rebecka,Brooklynn,Columbia St,Entire home/apt,159,2,106,43640,1.22,1,34,0.622513219
+392948,312722,Kristian & Di,Brooklynn,Williamsburg,Privaate room,45,15,15,43642,0.57,4,242,0.171641924
+393016,1303029,Kristina,Manhattan,Hell's Kitchen,Privaate room,104,2,133,43590,1.51,1,147,0.911486164
+393094,1965972,Alayna,Manhattan,Financial District,Entire home/apt,225,4,27,43610,0.31,1,169,0.971190019
+393682,1968502,Paola,Manhattan,Nolita,Privaate room,100,5,61,43102,0.7,1,188,0.393653451
+394026,1651591,Todd,Brooklynn,Greenpoint,Privaate room,90,2,2,43381,0.02,2,89,0.196885452
+394111,1947974,Constance F.,Queens,Briarwood,Privaate room,75,1,16,42736,0.18,2,189,0.664486568
+394235,1970839,Javier,Manhattan,Flatiron District,Entire home/apt,350,7,0,,,1,0,0.806444264
+396636,1981742,Daniel,Manhattan,Harlem,Entire home/apt,135,5,38,43601,0.44,1,253,0.371714649
+397034,70234,Richelle,Manhattan,upper West Side,Privaate room,125,1,25,41447,0.28,1,311,0.111684023
+397297,1982209,Wendy,Manhattan,East Village,Entire home/apt,225,3,93,42325,1.05,1,0,0.013952524
+397420,1985717,Darktalia,Manhattan,Harlem,Privaate room,85,3,6,42983,0.07,1,363,0.192979081
+398281,325790,Michael,Manhattan,Upper East Side,Entire home/apt,200,7,30,42708,0.34,1,224,0.501056337
+398283,1989327,William,Brooklynn,South Slope,Entire home/apt,250,3,17,43651,0.46,1,5,0.944962347
+399946,1996265,David,Manhattan,Lower East Side,Privaate room,90,10,67,43601,0.77,1,301,0.273374694
+400039,1488809,John,Brooklynn,Bushwick,Entire home/apt,130,30,53,42916,0.68,1,0,0.344644999
+400466,1985759,Esther,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,90,30,32,42654,0.37,1,50,0.820468241
+401579,462379,Loretta,Brooklynn,Carroll Gardens,Entire home/apt,298,30,131,43639,1.84,2,296,0.633025688
+401836,2005740,Maya,Manhattan,Upper East Side,Entire home/apt,300,4,19,43606,0.22,1,84,0.613366948
+402037,2006712,Amanda,Manhattan,Harlem,Privaate room,125,1,0,,,1,365,0.344088182
+403056,2010724,K. Naomi,Manhattan,East Harlem,Privaate room,125,3,74,43613,0.84,3,212,0.11461332
+403264,1386983,Candice,Manhattan,Midtown,Privaate room,145,3,165,43649,1.88,2,181,0.649741454
+403668,2013117,Katya,Manhattan,East Village,Entire home/apt,147,2,16,43467,0.18,1,0,0.588933716
+404502,242506,Jsun,Brooklynn,Williamsburg,Privaate room,123,3,269,43621,3.09,3,158,0.690224268
+404923,2017752,Jeruschka,Brooklynn,Windsor Terrace,Entire home/apt,88,3,243,43640,2.75,1,217,0.956072298
+405025,2018042,Megan,Queens,Long Island City,Entire home/apt,215,2,59,43647,0.94,1,335,0.401460378
+405408,2020431,M. C.,Manhattan,SoHo,Entire home/apt,225,3,134,43638,1.53,1,231,0.841205622
+406926,2027134,Marie-Helene,Manhattan,Nolita,Entire home/apt,269,28,81,43649,0.93,1,122,0.986829485
+406992,1952186,Erin,Brooklynn,Williamsburg,Entire home/apt,145,3,7,42665,0.08,1,270,0.449654948
+407469,2015914,Majar,Brooklynn,Bushwick,Privaate room,75,3,112,43611,1.28,8,330,0.6837019
+408491,2034361,Marshall,Manhattan,Greenwich Village,Entire home/apt,145,5,0,,,1,0,0.191474682
+408983,520189,Andre,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,229,2,92,43625,1.05,1,321,0.042875884
+409262,1621363,Elizabeth,Brooklynn,Boerum Hill,Entire home/apt,300,29,23,43510,0.26,2,312,0.465058754
+409293,2010724,K. Naomi,Manhattan,East Harlem,Privaate room,100,3,67,43613,0.76,3,345,0.737056027
+409666,405225,Olga,Brooklynn,Brighton Beach,Entire home/apt,75,2,8,42631,0.1,1,2,0.002604447
+411336,2047776,Jennifer,Manhattan,Nolita,Entire home/apt,225,2,244,43647,2.81,2,252,0.070743263
+411525,1697784,Jonathan,Brooklynn,Williamsburg,Privaate room,120,6,62,43602,0.7,2,15,0.789810522
+411918,2050338,Verena,Brooklynn,Crown Heights,Entire home/apt,160,5,125,43648,1.47,3,169,0.50460548
+412061,2051075,Linda,Brooklynn,Crown Heights,Entire home/apt,125,30,58,43617,0.67,2,212,0.889207957
+412180,2051961,Kim,Brooklynn,Bedford-Stuyvesant,Entire home/apt,95,5,9,43346,0.1,1,0,0.49131347
+413504,1286417,Omri,Brooklynn,Williamsburg,Privaate room,119,3,137,43629,1.57,1,296,0.368856711
+413775,2058589,Cary,Manhattan,Midtown,Entire home/apt,275,2,16,43594,0.24,1,167,0.557180321
+413876,2059155,Dan,Manhattan,Financial District,Entire home/apt,160,1,36,43369,0.57,1,365,0.630045702
+414801,319077,Shell,Brooklynn,Clinton Hill,Entire home/apt,500,1,54,43548,0.65,4,365,0.923428017
+415304,2050328,Martis,Manhattan,East Village,Entire home/apt,175,14,1,42521,0.03,1,0,0.219051243
+416557,2714164,Jasmine,Brooklynn,Greenpoint,Entire home/apt,87,6,39,43537,0.47,2,258,0.878782227
+417685,119588,Vero,Brooklynn,Park Slope,Entire home/apt,160,1,145,43638,1.76,2,257,0.066511688
+418291,626289,Marshall,Manhattan,East Village,Privaate room,125,3,28,43641,0.33,1,364,0.0579498
+419373,2085639,Eada,Brooklynn,Bedford-Stuyvesant,Entire home/apt,90,2,206,43646,2.4,1,236,0.237770137
+419792,2087636,Maddine,Manhattan,Lower East Side,Entire home/apt,200,7,4,43589,0.22,1,0,0.385251989
+421554,2096690,Richard,Brooklynn,Bedford-Stuyvesant,Entire home/apt,250,15,37,42673,0.52,2,54,0.30656489
+422040,1090764,Lynda,Manhattan,upper West Side,Privaate room,99,30,27,42958,0.31,1,189,0.895566155
+424192,2108853,Jasen,Manhattan,Hell's Kitchen,Entire home/apt,325,30,18,42511,0.21,1,364,0.035217862
+424667,2111060,Jj,Manhattan,Hell's Kitchen,Privaate room,99,1,134,43557,1.54,1,265,0.139405479
+424767,2103888,Akari,Manhattan,Midtown,Entire home/apt,325,2,197,43636,2.25,1,207,0.88786498
+424889,2076827,Shelley,Manhattan,West Village,Entire home/apt,129,7,5,42145,0.09,1,0,0.582888784
+424930,905122,Supriya,Brooklynn,Crown Heights,Entire home/apt,130,28,5,42283,0.06,1,196,0.242315682
+425784,2116807,Rafil,Brooklynn,Vinegar Hill,Entire home/apt,190,4,8,43102,0.09,1,0,0.396518014
+428226,2128778,Rachael,Brooklynn,Crown Heights,Privaate room,55,2,62,43596,0.71,2,57,0.217795589
+430427,820046,Elaine,Manhattan,Washington Heights,Privaate room,60,2,13,42766,0.15,1,0,0.79748769
+430665,2141109,Kishore,Manhattan,upper West Side,Entire home/apt,250,1,8,41873,0.09,1,0,0.835163943
+431865,361855,Kurt,Manhattan,Washington Heights,Entire home/apt,275,3,50,43646,0.87,2,277,0.262211525
+432090,2148881,Grace,Queens,Long Island City,Privaate room,50,180,69,42641,0.79,1,0,0.345258394
+433218,644941,Miya,Brooklynn,Prospect Heights,Entire home/apt,125,4,41,43605,0.47,1,10,0.493849809
+433414,287733,David,Brooklynn,Clinton Hill,Entire home/apt,150,20,89,43644,1.04,1,247,0.191143553
+433914,1906804,Terrance,Brooklynn,East New York,Entire home/apt,70,4,40,43633,0.46,1,273,0.442713211
+434792,2117078,Joe,Brooklynn,Gowanus,Entire home/apt,138,3,106,43623,1.22,1,189,0.181203409
+435774,2164138,Suzanne,Manhattan,Financial District,Entire home/apt,265,4,33,43429,0.39,1,0,0.448662114
+435776,2164452,Robert,Manhattan,Upper East Side,Privaate room,145,5,2,43011,0.09,1,365,0.495974915
+435909,2165401,Andrew,Manhattan,West Village,Entire home/apt,151,88,19,42728,0.22,1,249,0.11620801
+435946,2165711,Alda,Manhattan,Financial District,Entire home/apt,208,6,100,43630,1.14,1,310,0.754981213
+436510,2168251,Jennifer,Brooklynn,Williamsburg,Entire home/apt,200,3,16,43368,0.19,1,291,0.616228954
+436619,2168468,Cp,Manhattan,East Village,Privaate room,110,2,64,43625,0.76,1,74,0.731044122
+436824,200243,Laetitia,Manhattan,Harlem,Privaate room,58,1,17,43582,0.31,2,289,0.288509376
+436916,2169825,Serge,Manhattan,Harlem,Privaate room,55,2,7,42654,0.08,1,0,0.127864435
+437352,290662,Seth,Brooklynn,Park Slope,Entire home/apt,105,115,15,43465,0.17,1,219,0.02291425
+437906,2175110,Ralph,Manhattan,East Village,Entire home/apt,350,5,4,42284,0.07,1,0,0.460967011
+438513,2177462,Marc,Brooklynn,Prospect-Lefferts Gardens,Entire home/apt,150,3,87,43632,1,1,73,0.892081605
+439750,1566042,Haley,Brooklynn,Williamsburg,Privaate room,55,150,10,43239,0.14,1,97,0.519583722
+439870,1903758,Andrij,Brooklynn,Park Slope,Entire home/apt,299,20,0,,,1,149,0.093682559
+442636,1655939,Joris,Queens,Ridgewood,Entire home/apt,77,3,289,43640,3.3,1,85,0.258366939
+442649,793225,Rachel,Manhattan,Chelsea,Entire home/apt,125,9,10,43334,0.11,1,0,0.577953307
+443646,2204078,Michelle,Manhattan,upper West Side,Entire home/apt,395,14,39,43601,0.45,1,50,0.084855329
+444171,2206506,James,Brooklynn,Bedford-Stuyvesant,Entire home/apt,189,7,7,42842,0.1,2,303,0.013684862
+444430,420542,Danielle,Bronx,Mott Haven,Privaate room,49,1,23,43186,0.27,1,333,0.483602378
+446367,2216673,Joy,Manhattan,upper West Side,Entire home/apt,90,4,22,43626,0.27,1,239,0.500385826
+447766,1109143,Mark,Manhattan,Kips Bay,Privaate room,100,1,1,41872,0.02,1,6,0.336686695
+447840,242506,Jsun,Brooklynn,Williamsburg,Entire home/apt,299,2,5,42378,0.06,3,0,0.415260249
+448048,1267021,Sharma,Queens,Jackson Heights,Privaate room,75,5,30,43609,0.37,3,180,0.925862207
+448049,1267021,Sharma,Queens,Jackson Heights,Privaate room,69,7,55,43373,0.64,3,318,0.18691117
+449034,124357,Alex,Brooklynn,Williamsburg,Privaate room,90,1,155,43623,1.78,3,328,0.341653221
+449130,2229582,Yamil,Manhattan,Harlem,Privaate room,94,1,95,43644,1.09,1,18,0.048974771
+449660,2233165,Liz,Brooklynn,Windsor Terrace,Privaate room,80,2,118,43632,1.35,1,353,0.609211439
+449680,1812871,Karen,Bronx,Longwood,Entire home/apt,100,5,82,43449,0.96,1,63,0.934059842
+450009,2219255,Natalie,Brooklynn,Canarsie,Privaate room,39,5,105,43625,1.21,3,34,0.809749619
+450577,2237267,Marjorie,Manhattan,upper West Side,Entire home/apt,250,3,73,43623,0.84,1,284,0.364335362
+450578,9647066,Maria Luiza,Brooklynn,Sunset Park,Privaate room,55,7,28,43597,0.32,2,333,0.058872276
+450905,2228665,Martha,Brooklynn,Park Slope,Privaate room,110,2,0,,,1,0,0.496798033
+452068,2246071,Tamara,Brooklynn,Kensington,Entire home/apt,200,1,3,42232,0.06,1,0,0.417893962
+452541,2248545,Helen,Brooklynn,Windsor Terrace,Entire home/apt,142,3,120,43647,1.4,1,222,0.296360244
+453094,137814,Waldemar,Brooklynn,Clinton Hill,Privaate room,70,2,339,43639,3.88,3,333,0.915085147
+453161,2107905,Laura,Brooklynn,Greenpoint,Entire home/apt,260,2,7,43274,0.09,1,0,0.570733696
+453255,2252261,Stephanie,Manhattan,Lower East Side,Entire home/apt,225,4,13,43584,0.15,1,195,0.685911522
+453317,1530310,Jacques,Brooklynn,Bedford-Stuyvesant,Privaate room,59,21,6,41579,0.07,3,0,0.860724551
+454334,2257289,Toni,Manhattan,Harlem,Privaate room,65,1,3,42004,0.03,1,0,0.089200752
+454763,2259061,Felo,Manhattan,Inwood,Entire home/apt,99,20,11,43328,0.18,1,249,0.889007674
+454929,1385575,Alex,Manhattan,East Village,Entire home/apt,239,2,67,43648,1.33,1,78,0.434185485
+455734,2265389,Laura,Manhattan,Inwood,Entire home/apt,50,2,123,43648,1.47,1,21,0.30926502
+455801,2265770,Jeanine,Manhattan,Harlem,Privaate room,65,4,109,43362,1.25,3,0,0.669610607
+456110,2267508,Daniel,Manhattan,Chelsea,Entire home/apt,139,4,23,42281,0.27,1,0,0.236571342
+456190,2267864,Gary,Manhattan,West Village,Entire home/apt,174,2,269,43645,3.15,2,167,0.606120524
+456457,1594083,David,Manhattan,West Village,Entire home/apt,315,3,7,42611,0.08,1,0,0.858015518
+456526,2270183,Kaye,Manhattan,Harlem,Privaate room,75,3,36,43639,1.76,1,47,0.827894657
+457829,2275829,Lorena,Manhattan,East Village,Entire home/apt,210,1,178,43647,2.06,1,0,0.050645106
+458154,2268393,Javier & Jorge,Brooklynn,Williamsburg,Privaate room,55,4,132,43626,1.51,2,195,0.441739831
+458377,346366,Sarah,Brooklynn,Williamsburg,Entire home/apt,229,3,12,43613,0.15,1,319,0.159413156
+459066,2282355,Ivana,Manhattan,Upper East Side,Entire home/apt,150,2,23,43466,0.27,1,0,0.331206679
+460036,2287727,Jan,Manhattan,Kips Bay,Entire home/apt,129,2,47,43624,0.55,1,177,0.66296134
+460999,128890,Sara,Manhattan,Harlem,Entire home/apt,100,8,8,43552,0.11,1,0,0.018767622
+461050,2286224,Sarah,Brooklynn,Williamsburg,Entire home/apt,200,3,17,42502,0.2,1,67,0.813428279
+462454,2298239,Sunserae,Manhattan,Lower East Side,Privaate room,89,5,4,43183,0.06,1,0,0.188145639
+463107,2301624,Miryam,Brooklynn,Crown Heights,Entire home/apt,250,90,19,43450,0.22,1,311,0.575607842
+464231,1530310,Jacques,Brooklynn,Bedford-Stuyvesant,Privaate room,65,7,2,41058,0.02,3,0,0.173463231
+465277,2065453,Ora & Scout,Brooklynn,Crown Heights,Entire home/apt,68,2,35,43101,0.54,3,0,0.870295838
+466277,815977,Ryan,Brooklynn,Williamsburg,Entire home/apt,235,3,108,43648,1.25,2,144,0.672977997
+466457,2316542,Nicole Lavonne,Brooklynn,Bedford-Stuyvesant,Entire home/apt,100,3,182,43647,2.15,1,220,0.03966886
+467569,282315,Rj,Manhattan,Lower East Side,Entire home/apt,311,3,31,43627,0.41,1,28,0.093179451
+467634,2321321,Lloyd,Queens,Jamaica,Shared room,39,1,454,43634,5.27,1,353,0.788136375
+467866,2321870,David,Manhattan,West Village,Privaate room,100,2,199,43651,2.3,1,19,0.284596047
+468613,2325861,Cynthia,Manhattan,Lower East Side,Privaate room,1300,1,0,,,1,0,0.221134468
+470090,2332430,Murch,Manhattan,Lower East Side,Entire home/apt,210,1,230,43647,2.65,1,319,0.055674787
+470370,2120259,Sue,Brooklynn,Crown Heights,Privaate room,55,4,101,43640,1.19,4,170,0.161461549
+470498,2334269,Filip,Manhattan,Battery Park City,Privaate room,65,2,8,42360,0.13,1,0,0.520622997
+470709,2335775,Diana,Brooklynn,Williamsburg,Entire home/apt,165,30,154,43446,1.87,1,157,0.552533914
+471712,1274269,Aram,Manhattan,Morningside Heights,Privaate room,89,28,69,43611,0.81,1,80,0.561817569
+471758,2339722,Francesca,Manhattan,Tribeca,Entire home/apt,500,10,3,43270,0.05,1,0,0.725688473
+471845,2220859,Verena  And Dylan,Brooklynn,Bedford-Stuyvesant,Entire home/apt,145,14,3,41518,0.04,1,0,0.376935149
+471914,2147438,Stephen,Brooklynn,Prospect-Lefferts Gardens,Privaate room,110,4,12,43581,0.16,1,330,0.075933369
+472052,2341078,George,Manhattan,upper West Side,Entire home/apt,180,5,13,41873,0.15,1,0,0.504817686
+472376,1689040,Rich,Brooklynn,Prospect Heights,Entire home/apt,115,2,10,42513,0.17,1,0,0.772217256
+472546,1600988,Sweet Home,Brooklynn,Bushwick,Entire home/apt,82,15,5,43469,0.06,1,311,0.211944753
+473592,2347382,Massi & Ray,Queens,Long Island City,Privaate room,70,1,144,43633,1.68,2,340,0.513434542
+473777,2348973,Koren,Brooklynn,Williamsburg,Entire home/apt,155,5,10,42785,0.12,1,0,0.638375086
+474283,950232,Deborah,Manhattan,Hell's Kitchen,Entire home/apt,117,7,0,,,1,0,0.213294952
+475216,2355439,Kara,Brooklynn,Sunset Park,Entire home/apt,100,2,17,42212,0.2,1,0,0.813719163
+476527,2027013,Adam,Manhattan,East Village,Entire home/apt,89,30,57,43590,0.67,6,0,0.377454267
+476570,2027013,Adam,Manhattan,East Village,Entire home/apt,89,30,70,43533,0.83,6,4,0.794400301
+476571,2027013,Adam,Manhattan,East Village,Entire home/apt,99,30,62,43475,0.74,6,8,0.059446264
+476899,2363997,Teresa,Manhattan,East Village,Entire home/apt,155,6,17,43384,0.2,1,0,0.237338432
+476983,277379,Agnes,Manhattan,Harlem,Privaate room,85,1,439,43651,5.12,2,238,0.99200918
+478053,2368753,Kristine,Manhattan,Two Bridges,Privaate room,80,4,48,43471,0.56,1,96,0.064962646
+478385,2368133,Jimmy,Manhattan,Kips Bay,Entire home/apt,135,3,134,43645,1.56,1,236,0.579314252
+478832,2371814,Jennifer,Brooklynn,Carroll Gardens,Entire home/apt,150,6,2,41779,0.03,1,0,0.659406026
+478949,1130454,Samir,Manhattan,Chelsea,Entire home/apt,380,3,16,43043,0.19,1,0,0.547059846
+479002,1708956,Josh,Brooklynn,Fort Greene,Entire home/apt,450,2,31,43649,1.14,1,30,0.745909821
+479263,2373905,Jaime,Brooklynn,Williamsburg,Entire home/apt,145,30,36,43484,0.42,1,342,0.714296841
+479285,2374190,Jazmin,Queens,Sunnyside,Privaate room,80,3,1,41273,0.01,1,330,0.838473071
+479867,2377104,Hannah,Brooklynn,Williamsburg,Entire home/apt,225,2,338,43653,3.9,2,225,0.583948326
+480549,2361715,Ron,Manhattan,upper West Side,Privaate room,99,3,117,43080,1.41,1,0,0.523082904
+481022,2382189,Candice,Manhattan,Lower East Side,Entire home/apt,125,1,261,43638,3.24,1,212,0.786119267
+482365,914838,Lior,Manhattan,Hell's Kitchen,Entire home/apt,80,30,32,42766,0.37,7,365,0.356429122
+482765,2389885,Megan,Brooklynn,Fort Greene,Privaate room,100,2,112,43646,1.3,2,12,0.664967457
+483414,1539749,Edward,Brooklynn,Bedford-Stuyvesant,Privaate room,55,2,22,43605,0.26,4,297,0.76818573
+483485,1492619,Wallace,Manhattan,Civic Center,Entire home/apt,328,2,319,43648,3.78,1,112,0.416887431
+483505,2393537,Jodi,Brooklynn,Williamsburg,Entire home/apt,142,7,69,43636,0.85,1,261,0.441109847
+484297,2397411,John,Brooklynn,Clinton Hill,Entire home/apt,350,4,10,43355,0.12,1,0,0.67569324
+484312,2306962,Hana,Brooklynn,Windsor Terrace,Entire home/apt,300,2,24,43516,0.39,1,23,0.792920649
+484728,2396741,Alex,Brooklynn,Fort Hamilton,Entire home/apt,105,30,3,42959,0.05,1,30,0.534047915
+485026,2400932,Jackie'S Place,Brooklynn,Gowanus,Privaate room,125,31,17,41820,0.2,2,331,0.389288314
+486350,2407024,Michael,Brooklynn,Williamsburg,Entire home/apt,225,7,13,42603,0.15,2,0,0.604442643
+488083,619154,Keith,Brooklynn,Sunset Park,Entire home/apt,92,2,58,43612,0.67,1,0,0.265451244
+489018,864370,Mick & Heidi,Manhattan,East Village,Entire home/apt,185,2,62,43639,0.74,1,0,0.946855486
+489365,2420670,Carter,Brooklynn,Williamsburg,Entire home/apt,226,3,203,43643,2.85,1,38,0.660484064
+489924,1027283,Kelly,Brooklynn,Sunset Park,Privaate room,50,2,33,43646,0.39,1,20,0.260599771
+489965,2423067,Clara,Manhattan,East Harlem,Privaate room,80,3,47,43533,0.66,2,0,0.176639232
+490011,2423401,Peter,Brooklynn,Carroll Gardens,Privaate room,200,5,0,,,1,342,0.840844184
+490278,2424873,A.B.,Manhattan,Midtown,Entire home/apt,99,14,30,43161,0.35,1,317,0.329917664
+490989,2427385,Andy,Brooklynn,Park Slope,Entire home/apt,68,3,2,42823,0.05,1,0,0.675771112
+491123,2427868,Ada,Brooklynn,Prospect Heights,Privaate room,102,2,121,43633,1.6,1,361,0.150921647
+491529,2429432,Julie,Brooklynn,Park Slope,Entire home/apt,220,3,27,43602,0.45,1,68,0.128757245
+491942,1995093,Carly,Manhattan,upper West Side,Entire home/apt,199,3,24,42652,0.3,1,0,0.874998443
+491977,2431528,Christine,Manhattan,Chinatown,Entire home/apt,165,5,22,43596,0.26,1,316,0.425342911
+493177,2436633,Gelya,Manhattan,Chinatown,Entire home/apt,150,2,162,43632,1.92,1,231,0.323995488
+493611,1407251,Ute,Brooklynn,Gowanus,Entire home/apt,385,1,66,43604,0.76,2,363,0.693899144
+494296,2442340,Maddy,Brooklynn,Columbia St,Privaate room,75,7,0,,,1,0,0.002412912
+494937,1527535,Jean-Marie,Manhattan,SoHo,Entire home/apt,499,2,63,43653,0.76,1,26,0.860214379
+495249,2446219,Biren,Queens,East Elmhurst,Privaate room,85,1,219,43630,2.63,2,305,0.446813384
+495348,2389885,Megan,Brooklynn,Fort Greene,Entire home/apt,160,4,2,41364,0.03,2,34,0.486323113
+496166,2450665,D,Brooklynn,South Slope,Entire home/apt,249,3,12,43647,0.27,1,26,0.471852684
+497370,2455462,Elizabeth (And Jeff Too),Brooklynn,Gowanus,Privaate room,80,2,35,42885,0.41,1,189,0.843757332
+498052,2426779,Regina,Brooklynn,Williamsburg,Privaate room,120,1,124,43626,1.46,1,292,0.548285402
+498120,2459648,Ellen,Bronx,Allerton,Privaate room,35,7,2,43304,0.17,1,90,0.919965004
+498859,2462260,Dimitry,Brooklynn,Brighton Beach,Entire home/apt,169,4,63,43652,1.27,1,323,0.816615356
+500845,1336370,Bojan+Margaret,Manhattan,East Village,Entire home/apt,220,4,162,43637,1.88,1,341,0.554790392
+500886,2206506,James,Brooklynn,Bedford-Stuyvesant,Privaate room,85,3,103,43631,1.25,2,344,0.580562999
+501041,1386685,Aleksandra,Manhattan,upper West Side,Entire home/apt,300,7,0,,,1,0,0.221217105
+501082,2471671,Joyce,Manhattan,Harlem,Privaate room,79,30,185,43623,2.15,1,302,0.38050685
+501098,2472680,Fanny,Brooklynn,Williamsburg,Privaate room,90,4,219,43631,2.54,1,30,0.874557994
+501693,1490833,Patrick,Manhattan,upper West Side,Privaate room,99,1,280,43639,3.51,1,246,0.727037683
+502132,48599,Anastasia,Manhattan,Chelsea,Shared room,50,1,61,42862,0.71,2,0,0.39756012
+502309,2478675,Gina,Brooklynn,Prospect-Lefferts Gardens,Privaate room,46,1,184,43626,2.14,5,362,0.326504687
+502429,2100968,Elodie,Brooklynn,South Slope,Entire home/apt,325,3,116,43653,1.37,1,203,0.703043842
+503460,2483236,Caitlin,Staten Island,New Springville,Privaate room,68,2,11,43395,0.24,1,88,0.639754684
+503529,2483293,Eric,Manhattan,SoHo,Entire home/apt,198,3,9,43519,0.1,1,0,0.391476922
+503585,2483766,Rebecca (Marks),Brooklynn,Bedford-Stuyvesant,Entire home/apt,100,5,4,41469,0.05,1,0,0.835573137
+503722,2484383,Theresa,Brooklynn,Williamsburg,Entire home/apt,175,2,15,43619,0.29,1,64,0.441845876
+503790,2484654,Michele,Manhattan,West Village,Entire home/apt,130,4,22,43611,0.28,1,77,0.481505475
+504322,471928,Mahalia,Manhattan,Greenwich Village,Entire home/apt,180,3,18,42917,0.21,1,0,0.527554811
+504362,2487309,Eric,Brooklynn,Prospect Heights,Entire home/apt,209,3,56,43650,0.65,1,160,0.019033873
+504394,2487319,Erin,Manhattan,upper West Side,Entire home/apt,150,4,2,41885,0.03,1,141,0.91404873
+504437,2356449,Mariana,Manhattan,Lower East Side,Entire home/apt,104,3,57,43646,0.7,1,6,0.617039694
+505029,2490471,Ann,Manhattan,East Village,Entire home/apt,175,4,13,43420,0.17,1,0,0.28468314
+505231,2490915,Catherine,Manhattan,Upper East Side,Privaate room,80,1,1,41082,0.01,1,0,0.702017825
+505315,167417,Kelly,Brooklynn,Bushwick,Privaate room,68,2,37,43639,0.49,1,23,0.116483788
+506121,2267153,John,Manhattan,East Village,Privaate room,72,5,451,43646,5.26,2,13,0.33554968
+506527,864735,Jason,Queens,Astoria,Entire home/apt,107,30,24,43585,0.29,8,262,0.116779143
+506571,2349977,Anthony,Manhattan,East Village,Entire home/apt,150,7,19,43546,0.32,1,24,0.984313386
+506575,2001830,Jose And Ysaira,Bronx,Morris Heights,Privaate room,45,3,190,43622,2.21,2,329,0.263943867
+507393,1539749,Edward,Brooklynn,Bedford-Stuyvesant,Privaate room,49,2,46,43612,0.54,4,301,0.170426991
+509989,2472305,Rick,Brooklynn,Flatbush,Entire home/apt,349,1,169,43639,2.08,1,344,0.156066384
+510218,2513726,Margaret,Manhattan,upper West Side,Entire home/apt,185,2,165,43634,1.92,1,259,0.99220393
+510454,2515124,Jacqueline,Manhattan,Kips Bay,Entire home/apt,145,3,2,42544,0.02,1,0,0.444733144
+511436,2519356,Darya,Brooklynn,Williamsburg,Entire home/apt,96,3,1,43246,0.07,1,0,0.926859465
+511733,1840766,Samantha,Brooklynn,Bushwick,Entire home/apt,120,5,3,42267,0.04,1,0,0.524938457
+511960,2521848,Gay,Manhattan,East Village,Entire home/apt,160,1,15,42499,0.18,1,0,0.64874434
+512209,2521513,Amy,Brooklynn,Brooklynn Heights,Entire home/apt,800,3,60,43466,0.7,1,67,0.551602804
+512210,2522854,Rich,Brooklynn,Crown Heights,Entire home/apt,349,2,320,43638,3.85,1,260,0.981318272
+512775,2396295,Richard,Queens,Long Island City,Entire home/apt,350,2,182,43627,2.2,1,272,0.42488081
+513343,2528671,Dennis,Brooklynn,Prospect Heights,Entire home/apt,125,30,1,41101,0.01,1,341,0.04664123
+513688,2530670,Tiffany,Brooklynn,Boerum Hill,Entire home/apt,350,2,134,43653,1.56,1,56,0.206727387
+514457,2096690,Richard,Brooklynn,Bedford-Stuyvesant,Entire home/apt,150,10,10,43611,0.17,2,185,0.482941852
+514548,2533991,Amanda,Brooklynn,Bushwick,Entire home/apt,180,30,0,,,1,352,0.701031777
